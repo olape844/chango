@@ -353,3 +353,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jun2025 21:31:10.259] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-204, 80, -388) minecraft:overworld
 [17Jun2025 21:34:39.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Acquire Hardware]
 [17Jun2025 21:39:17.276] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 112.4 μs. 128/128 recipes are parallelized.
+[17Jun2025 21:57:03.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 21:57:03.730] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(66, 64, -698) minecraft:overworld
