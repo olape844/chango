@@ -389,3 +389,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jun2025 22:10:51.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-78, 68, -456) minecraft:overworld
 [17Jun2025 22:11:14.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
 [17Jun2025 22:11:14.674] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-76, 68, -465) minecraft:overworld
+[17Jun2025 22:34:12.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [The Parrots and the Bats]
+[17Jun2025 22:40:18.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [A Seedy Place]
