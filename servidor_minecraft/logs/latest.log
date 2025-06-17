@@ -355,3 +355,37 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [17Jun2025 21:39:17.276] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 112.4 μs. 128/128 recipes are parallelized.
 [17Jun2025 21:57:03.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
 [17Jun2025 21:57:03.730] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(66, 64, -698) minecraft:overworld
+[17Jun2025 22:02:44.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Chort
+[17Jun2025 22:04:07.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:04:07.228] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-64, 72, -414) minecraft:overworld
+[17Jun2025 22:04:40.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Spider
+[17Jun2025 22:04:40.824] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-57, 70, -404) minecraft:overworld
+[17Jun2025 22:05:29.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Monster Hunter]
+[17Jun2025 22:05:40.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Spider
+[17Jun2025 22:05:40.791] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-56, 65, -462) minecraft:overworld
+[17Jun2025 22:06:05.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:06:05.678] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-45, 67, -461) minecraft:overworld
+[17Jun2025 22:07:06.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:07:06.829] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-40, 67, -470) minecraft:overworld
+[17Jun2025 22:07:44.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
+[17Jun2025 22:07:44.577] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-30, 64, -495) minecraft:overworld
+[17Jun2025 22:08:09.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:08:09.824] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-20, 64, -504) minecraft:overworld
+[17Jun2025 22:08:51.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:08:51.824] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-24, 64, -498) minecraft:overworld
+[17Jun2025 22:09:42.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:09:42.930] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-83, 69, -465) minecraft:overworld
+[17Jun2025 22:09:57.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -2.3434254720102956,3.0,-14.247479052027188
+[17Jun2025 22:10:03.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:10:03.477] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-86, 69, -457) minecraft:overworld
+[17Jun2025 22:10:10.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -5.5,8.0,-6.5
+[17Jun2025 22:10:17.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:10:17.976] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-81, 68, -456) minecraft:overworld
+[17Jun2025 22:10:26.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:10:26.623] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-82, 68, -456) minecraft:overworld
+[17Jun2025 22:10:39.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:10:39.977] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-80, 68, -458) minecraft:overworld
+[17Jun2025 22:10:51.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:10:51.230] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-78, 68, -456) minecraft:overworld
+[17Jun2025 22:11:14.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[17Jun2025 22:11:14.674] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-76, 68, -465) minecraft:overworld
