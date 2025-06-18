@@ -346,3 +346,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jun2025 22:28:23.561] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player benjamon has successfully logged in.
 [18Jun2025 22:28:55.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> zzz
 [18Jun2025 22:31:12.641] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.363 ms. 2110/2140 recipes are parallelized.
+[18Jun2025 22:35:04.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon fell from a high place
+[18Jun2025 22:35:04.280] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-85, 70, -435) minecraft:overworld
+[18Jun2025 22:37:00.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Suit Up]
+[18Jun2025 22:37:29.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Isn't It Iron Pick]
+[18Jun2025 22:42:24.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[18Jun2025 22:42:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[18Jun2025 22:43:15.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:56627] logged in with entity id 3579 at (-76.44986445647905, 15.0, -425.7007719773491)
+[18Jun2025 22:43:15.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[18Jun2025 22:43:16.422] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[18Jun2025 22:43:45.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[18Jun2025 22:43:45.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[18Jun2025 22:44:52.574] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@592ca200[id=<null>,name=benjamon,properties={},legacy=false] (/127.28.56.10:49187): Took too long to log in
+[18Jun2025 22:44:52.575] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@592ca200[id=<null>,name=benjamon,properties={},legacy=false] (/127.28.56.10:49187) lost connection: Took too long to log in
+[18Jun2025 22:44:52.624] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
