@@ -364,3 +364,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jun2025 22:50:49.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
 [18Jun2025 22:50:49.664] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
 [18Jun2025 22:51:24.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: benjamon
+[18Jun2025 22:58:16.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[18Jun2025 22:58:16.934] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-84, -10, -432) minecraft:overworld
+[18Jun2025 22:58:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Zombie
+[18Jun2025 22:58:58.929] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-77, 7, -419) minecraft:overworld
+[18Jun2025 22:59:29.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -0.5940404638620436,-8.0,6.848895967960061
+[18Jun2025 22:59:43.384] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[18Jun2025 23:00:21.031] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@518f42f4[id=<null>,name=Juandi3531,properties={},legacy=false] (/127.39.127.4:36693) lost connection: Disconnected
+[18Jun2025 23:01:13.281] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16fdb579[id=<null>,name=Juandi3531,properties={},legacy=false] (/127.39.127.4:60013) lost connection: Disconnected
