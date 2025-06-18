@@ -328,3 +328,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jun2025 22:12:37.195] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
 [18Jun2025 22:13:06.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
 [18Jun2025 22:13:06.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[18Jun2025 22:17:58.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:53045] logged in with entity id 1019 at (-81.88823613008739, 70.0, -439.23809910156143)
+[18Jun2025 22:17:58.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[18Jun2025 22:18:00.258] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[18Jun2025 22:18:28.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[18Jun2025 22:18:28.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[18Jun2025 22:22:13.624] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@310b98eb[id=<null>,name=benjamon,properties={},legacy=false] (/127.28.56.10:58877): Took too long to log in
+[18Jun2025 22:22:13.625] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@310b98eb[id=<null>,name=benjamon,properties={},legacy=false] (/127.28.56.10:58877) lost connection: Took too long to log in
+[18Jun2025 22:22:13.674] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
