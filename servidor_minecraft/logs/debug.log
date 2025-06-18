@@ -4738,3 +4738,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jun2025 23:43:42.327] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
 [18Jun2025 23:44:11.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
 [18Jun2025 23:44:11.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[18Jun2025 23:46:15.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 23:46:15.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 23:46:38.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jun2025 23:46:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jun2025 23:46:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jun2025 23:46:38.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jun2025 23:46:38.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jun2025 23:46:38.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jun2025 23:46:38.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[18Jun2025 23:46:38.714] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 23:46:38.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 23:46:38.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jun2025 23:46:38.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jun2025 23:46:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jun2025 23:46:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[18Jun2025 23:46:38.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jun2025 23:46:38.856] [Server thread/INFO] [simplelogin/]: Shutting down player login handler
+[18Jun2025 23:46:38.857] [Server thread/INFO] [simplelogin/]: Disabling all plugins
+[18Jun2025 23:46:38.858] [Server thread/INFO] [simplelogin/]: Saving all entries
+[18Jun2025 23:46:38.860] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
