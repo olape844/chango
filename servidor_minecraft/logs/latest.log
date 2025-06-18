@@ -408,3 +408,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [18Jun2025 23:18:47.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no debería
 [18Jun2025 23:19:16.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> oka
 [18Jun2025 23:22:46.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> che apagalo si queres
+[18Jun2025 23:39:56.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was blown up by Creeper
+[18Jun2025 23:39:56.136] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-7, -15, -323) minecraft:overworld
+[18Jun2025 23:42:57.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon was kicked for floating too long!
+[18Jun2025 23:42:57.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Flying is not enabled on this server
+[18Jun2025 23:42:57.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[18Jun2025 23:43:41.537] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:50081] logged in with entity id 12999 at (-57.61400191750583, -9.23363200604248, -391.76501257919483)
+[18Jun2025 23:43:41.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[18Jun2025 23:43:42.327] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[18Jun2025 23:44:11.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[18Jun2025 23:44:11.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
