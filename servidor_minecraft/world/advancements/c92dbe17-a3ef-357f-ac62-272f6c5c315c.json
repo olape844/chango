@@ -543,7 +543,8 @@
       "cooked_beef": "2025-06-17 21:42:09 +0000",
       "beef": "2025-06-17 21:30:43 +0000",
       "mutton": "2025-06-17 21:28:53 +0000",
-      "rotten_flesh": "2025-06-17 22:16:36 +0000"
+      "rotten_flesh": "2025-06-17 22:16:36 +0000",
+      "carrot": "2025-06-18 23:05:52 +0000"
     },
     "done": false
   },
@@ -1127,6 +1128,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-06-18 23:05:46 +0000",
       "minecraft:chicken": "2025-06-17 22:34:12 +0000"
     },
     "done": false
