@@ -540,9 +540,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-06-18 23:18:29 +0000",
       "cooked_beef": "2025-06-17 21:42:09 +0000",
       "beef": "2025-06-17 21:30:43 +0000",
+      "potato": "2025-06-18 23:16:45 +0000",
       "mutton": "2025-06-17 21:28:53 +0000",
+      "bread": "2025-06-18 23:16:56 +0000",
       "rotten_flesh": "2025-06-17 22:16:36 +0000",
       "carrot": "2025-06-18 23:05:52 +0000"
     },
@@ -970,6 +973,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-18 23:14:49 +0000",
       "minecraft:spider": "2025-06-17 22:05:29 +0000",
       "minecraft:witch": "2025-06-17 22:11:10 +0000",
       "minecraft:zombie": "2025-06-17 22:11:32 +0000"
@@ -1129,6 +1133,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2025-06-18 23:05:46 +0000",
+      "minecraft:cow": "2025-06-18 23:14:11 +0000",
       "minecraft:chicken": "2025-06-17 22:34:12 +0000"
     },
     "done": false
@@ -1223,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-18 23:15:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-18 22:51:42 +0000"
@@ -1244,6 +1255,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-18 22:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-06-18 23:14:49 +0000"
     },
     "done": true
   },
@@ -1325,6 +1342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-18 23:20:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-18 22:51:42 +0000"
@@ -1334,6 +1357,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-06-18 22:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-18 23:20:48 +0000"
     },
     "done": true
   },
