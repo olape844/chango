@@ -300,3 +300,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Jun2025 00:16:06.966] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19Jun2025 00:21:02.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
 [19Jun2025 00:21:02.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[19Jun2025 00:28:29.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:56569] logged in with entity id 5401 at (104.43028279839623, 63.5625, -774.5)
+[19Jun2025 00:28:29.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[19Jun2025 00:28:30.174] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[19Jun2025 00:28:59.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[19Jun2025 00:28:59.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[19Jun2025 00:32:32.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:51783] logged in with entity id 5817 at (104.43028279839623, 63.5625, -774.5)
+[19Jun2025 00:32:32.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[19Jun2025 00:32:32.970] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[19Jun2025 00:33:50.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 drowned
+[19Jun2025 00:33:50.633] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(108, 61, -772) minecraft:overworld
+[19Jun2025 00:38:31.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Invitation to the Tea Party]
+[19Jun2025 00:39:20.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Suit Up]
+[19Jun2025 00:40:00.640] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.987 ms. 2110/2140 recipes are parallelized.
