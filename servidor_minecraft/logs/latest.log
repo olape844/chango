@@ -559,3 +559,109 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Jun2025 21:42:21.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> encontré una mineshaft
 [19Jun2025 21:42:27.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> quien dejo 39 mascaras en mi cofre
 [19Jun2025 21:42:35.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el faustp
+[19Jun2025 21:42:44.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> gg
+[19Jun2025 21:43:22.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[19Jun2025 21:43:22.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[19Jun2025 21:44:11.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:50981] logged in with entity id 39190 at (256.08905291831985, 67.0, -2155.3031096328477)
+[19Jun2025 21:44:11.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[19Jun2025 21:44:41.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[19Jun2025 21:44:41.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[19Jun2025 21:45:25.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:58185] logged in with entity id 39344 at (256.08905291831985, 67.0, -2155.3031096328477)
+[19Jun2025 21:45:25.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[19Jun2025 21:45:26.066] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[19Jun2025 21:45:30.192] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[19Jun2025 21:46:03.354] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:37851] logged in with entity id 39467 at (113.5335977314825, -49.0, -2293.9452690278745)
+[19Jun2025 21:46:03.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[19Jun2025 21:46:03.797] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[19Jun2025 21:46:50.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> tienen un cuvo de lava'
+[19Jun2025 21:46:56.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> SI
+[19Jun2025 21:47:12.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> bueno
+[19Jun2025 21:47:17.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> tenco estalactitas
+[19Jun2025 21:47:20.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y calderos
+[19Jun2025 21:47:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> oka
+[19Jun2025 21:48:48.851] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@41c2ea2f[id=<null>,name=Pradolf56,properties={},legacy=false] (/127.13.82.243:34593) lost connection: Disconnected
+[19Jun2025 21:50:19.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.13.82.243:54171] logged in with entity id 40780 at (-68.5, 63.0, -135.5)
+[19Jun2025 21:50:19.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[19Jun2025 21:50:20.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Ice and Fire]
+[19Jun2025 21:50:20.629] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player pradolf56 has successfully registered.
+[19Jun2025 21:50:26.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> buenas
+[19Jun2025 21:50:31.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> que onda
+[19Jun2025 21:50:32.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ola
+[19Jun2025 21:50:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> estan en discord?
+[19Jun2025 21:50:58.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> no
+[19Jun2025 21:51:01.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> uis
+[19Jun2025 21:51:10.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzz
+[19Jun2025 21:51:12.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -1.4211264030599011,-0.8800391385729576,9.996061640307744
+[19Jun2025 21:51:25.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Isn't It Iron Pick]
+[19Jun2025 21:51:42.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[19Jun2025 21:51:42.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[19Jun2025 21:51:46.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzz
+[19Jun2025 21:51:46.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Not Today, Thank You]
+[19Jun2025 21:51:49.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
+[19Jun2025 21:51:49.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[19Jun2025 21:51:51.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
+[19Jun2025 21:51:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[19Jun2025 21:51:58.748] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.13.82.243:43573] logged in with entity id 41828 at (-227.5082816584277, 70.0, -299.0697218205865)
+[19Jun2025 21:51:58.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[19Jun2025 21:51:59.110] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[19Jun2025 21:52:05.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> gracias
+[19Jun2025 21:52:06.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:58121] logged in with entity id 42115 at (185.98787396586997, 9.0, -2240.68456196669)
+[19Jun2025 21:52:06.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[19Jun2025 21:52:06.568] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[19Jun2025 21:52:07.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:60259] logged in with entity id 42341 at (175.18323046726698, -42.0, -2264.656485233873)
+[19Jun2025 21:52:07.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[19Jun2025 21:52:07.775] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[19Jun2025 21:52:50.028] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Auto saving entries
+[19Jun2025 21:52:50.029] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Done! Took 1ms.
+[19Jun2025 21:54:15.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> por donde andan?
+[19Jun2025 21:54:26.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Isn't It Iron Pick]
+[19Jun2025 21:54:29.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> en una minita
+[19Jun2025 21:54:34.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> puedo ir?
+[19Jun2025 21:54:35.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> x2
+[19Jun2025 21:54:40.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ok
+[19Jun2025 21:54:50.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> yo estoy en la aldea
+[19Jun2025 21:54:53.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> haganse un tpa bien epico
+[19Jun2025 21:54:54.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> es la que estaba cerca del spawn?
+[19Jun2025 21:54:59.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ok
+[19Jun2025 21:55:47.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[19Jun2025 21:55:50.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Stone Age]
+[19Jun2025 21:56:05.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Getting an Upgrade]
+[19Jun2025 21:56:15.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> opa
+[19Jun2025 21:56:17.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> pelea epica
+[19Jun2025 21:56:20.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Suit Up]
+[19Jun2025 21:56:23.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> jsjsjsjs
+[19Jun2025 21:56:49.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ferrous Wroughtnaut
+[19Jun2025 21:56:49.295] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(256, 49, -2320) minecraft:overworld
+[19Jun2025 21:57:18.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Diamonds!]
+[19Jun2025 21:57:25.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> uju
+[19Jun2025 21:57:36.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> juan
+[19Jun2025 21:57:41.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> tenes carbon?
+[19Jun2025 21:57:42.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> q
+[19Jun2025 21:57:44.927] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jun2025 21:57:44.928] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jun2025 21:57:58.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> poco
+[19Jun2025 21:58:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> pasate
+[19Jun2025 21:58:05.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> si podes
+[19Jun2025 21:58:15.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> donde estas
+[19Jun2025 21:58:19.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> no se
+[19Jun2025 21:58:20.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Ferrous Wroughtnaut
+[19Jun2025 21:58:20.295] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(256, 49, -2321) minecraft:overworld
+[19Jun2025 21:58:31.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> donde vos me aceptaste el tpa
+[19Jun2025 21:58:51.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> a ver
+[19Jun2025 21:59:11.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> grax
+[19Jun2025 21:59:24.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> creo
+[19Jun2025 21:59:29.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> que hay zombies
+[19Jun2025 21:59:30.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> un spawn
+[19Jun2025 21:59:33.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> sis
+[19Jun2025 21:59:56.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Diamonds!]
+[19Jun2025 22:00:09.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Not Today, Thank You]
+[19Jun2025 22:00:32.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Acquire Hardware]
+[19Jun2025 22:00:43.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Isn't It Iron Pick]
+[19Jun2025 22:00:45.104] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jun2025 22:00:45.104] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jun2025 22:00:57.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Diamonds!]
+[19Jun2025 22:01:05.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> vamo
+[19Jun2025 22:01:46.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Monster Hunter]
+[19Jun2025 22:01:56.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> diablo
+[19Jun2025 22:02:41.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> tenes hierrp de sobra?
+[19Jun2025 22:02:48.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> hierro*

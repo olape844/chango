@@ -2282,6 +2282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-19 21:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-19 21:22:13 +0000"
