@@ -1832,3 +1832,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Jun2025 23:41:32.731] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [19Jun2025 23:41:41.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [A Seedy Place]
 [19Jun2025 23:42:07.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> tenes lana?
+[19Jun2025 23:45:58.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [We Need to Go Deeper]
+[19Jun2025 23:47:15.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Bullkin
+[19Jun2025 23:47:15.459] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(30, 78, -260) minecraft:the_nether
+[19Jun2025 23:47:32.905] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jun2025 23:48:32.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [A Seedy Place]
+[19Jun2025 23:49:36.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya llegó alguien a la aldeashion?
+[19Jun2025 23:49:39.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> yo
+[19Jun2025 23:49:41.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> todos
+[19Jun2025 23:49:45.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] trolines
+[19Jun2025 23:49:49.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 4 of a max of 20 players online: benjamon, rotto123, BatmanGordo1, Pradolf56
+[19Jun2025 23:49:58.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Acquire Hardware]
+[19Jun2025 23:50:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> te dije en el grupo que ya habia llegado
+[19Jun2025 23:50:08.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] en un rato me meto
+[19Jun2025 23:50:11.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ok
+[19Jun2025 23:50:14.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no vi el mensaje
+[19Jun2025 23:50:20.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Suit Up]
+[19Jun2025 23:50:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el clash of clans me necesita
+[19Jun2025 23:50:30.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[19Jun2025 23:50:37.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] y la mediatarde
+[19Jun2025 23:50:53.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Imp
+[19Jun2025 23:50:53.601] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(282, 64, -2114) minecraft:overworld
+[19Jun2025 23:51:00.455] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jun2025 23:51:18.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zz
+[19Jun2025 23:51:19.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:51:19.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zz
+[19Jun2025 23:51:19.352] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[19Jun2025 23:51:19.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[19Jun2025 23:51:19.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:51:19.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:51:47.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.3.178.96:53045] logged in with entity id 121674 at (191.04957025249553, -33.52691325939772, -2232.07705562089)
+[19Jun2025 23:51:47.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[19Jun2025 23:51:47.880] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[19Jun2025 23:52:06.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 drowned
+[19Jun2025 23:52:06.714] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(192, -29, -2233) minecraft:overworld
+[19Jun2025 23:52:17.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Timed out
+[19Jun2025 23:52:17.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[19Jun2025 23:52:32.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.3.178.96:33441] logged in with entity id 122139 at (191.04957025249553, -33.52691325939772, -2232.07705562089)
+[19Jun2025 23:52:32.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[19Jun2025 23:52:32.662] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[19Jun2025 23:53:35.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> estoy en el spawn

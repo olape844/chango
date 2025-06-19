@@ -2440,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-19 23:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-06-19 23:41:02 +0000"
@@ -2451,6 +2457,12 @@
       "minecraft:nether_wastes": "2025-06-19 23:34:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-19 23:53:04 +0000"
+    },
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -2500,6 +2512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-19 23:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-19 23:41:02 +0000"
@@ -2530,9 +2548,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-19 23:53:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-06-19 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-06-19 23:53:04 +0000"
     },
     "done": true
   },
