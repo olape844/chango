@@ -389,3 +389,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Jun2025 21:08:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> tp
 [19Jun2025 21:10:03.946] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [19Jun2025 21:10:03.947] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[19Jun2025 21:12:26.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Umvuthi, the Sunbird
+[19Jun2025 21:12:26.450] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(87, 58, -1963) minecraft:overworld
+[19Jun2025 21:12:55.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ta tryhard
+[19Jun2025 21:13:26.253] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jun2025 21:13:26.254] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[19Jun2025 21:13:37.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> me focusea
+[19Jun2025 21:13:48.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y spamea
+[19Jun2025 21:14:13.999] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@360cd567[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:47265) lost connection: Disconnected
+[19Jun2025 21:15:24.245] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4632726e[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:32911) lost connection: Disconnected
+[19Jun2025 21:15:38.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Umvuthi, the Sunbird
+[19Jun2025 21:15:38.252] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(73, 65, -1917) minecraft:overworld
+[19Jun2025 21:15:44.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> que robo
+[19Jun2025 21:15:51.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> petiate
+[19Jun2025 21:16:32.897] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jun2025 21:16:32.897] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jun2025 21:17:30.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me hixo cagar la armadura
+[19Jun2025 21:17:54.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved wrongly!
+[19Jun2025 21:18:59.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:39827] logged in with entity id 22283 at (-70.5, 64.0, -127.5)
+[19Jun2025 21:18:59.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[19Jun2025 21:18:59.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Ice and Fire]
+[19Jun2025 21:19:02.065] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player haazk has successfully registered.
+[19Jun2025 21:19:50.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> sali un segundo y me violo
+[19Jun2025 21:19:54.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> que spawn de mierda
+[19Jun2025 21:20:07.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk was kicked for floating too long!
+[19Jun2025 21:20:07.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
+[19Jun2025 21:20:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[19Jun2025 21:20:07.999] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Jun2025 21:20:20.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:50095] logged in with entity id 22904 at (-56.941816293174064, 66.25220334025373, -109.39998899812944)
+[19Jun2025 21:20:20.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[19Jun2025 21:20:21.131] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[19Jun2025 21:20:43.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Umvuthi, the Sunbird
+[19Jun2025 21:20:43.453] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(105, 75, -1918) minecraft:overworld
+[19Jun2025 21:20:47.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Zombie
+[19Jun2025 21:21:11.349] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[19Jun2025 21:21:11.350] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[19Jun2025 21:21:20.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Umvuthi, the Sunbird
+[19Jun2025 21:21:20.752] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(102, 71, -1917) minecraft:overworld
+[19Jun2025 21:21:20.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Umvuthi, the Sunbird
+[19Jun2025 21:21:20.808] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(103, 70, -1918) minecraft:overworld
+[19Jun2025 21:21:25.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y eso
+[19Jun2025 21:21:29.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> bruhhh
+[19Jun2025 21:21:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was blown up by Creeper
+[19Jun2025 21:21:36.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> hshshs
+[19Jun2025 21:21:37.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -0.6626672024630693,-2.249187078744683,-9.943978690415037
+[19Jun2025 21:21:48.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> queres venir?
+[19Jun2025 21:21:48.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> omaigaw
+[19Jun2025 21:21:55.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> pa que pedis tp
+[19Jun2025 21:22:05.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[19Jun2025 21:22:05.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[19Jun2025 21:22:10.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> crei que todavia estabas alla
