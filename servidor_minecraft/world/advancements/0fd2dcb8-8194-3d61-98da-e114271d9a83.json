@@ -783,6 +783,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-19 22:54:21 +0000",
       "minecraft:spider": "2025-06-19 22:13:43 +0000",
       "minecraft:creeper": "2025-06-19 22:12:25 +0000",
       "minecraft:cave_spider": "2025-06-19 22:01:46 +0000",
@@ -1067,13 +1068,25 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
+  "minecraft:recipes/redstone/target": {
     "criteria": {
-      "ferrous_wroughtnaut": "2025-06-19 22:32:18 +0000"
+      "has_hay_block": "2025-06-19 22:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-19 22:26:29 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-19 22:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-06-19 22:26:31 +0000"
     },
@@ -1085,21 +1098,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
-      "has_wheat": "2025-06-19 22:26:31 +0000"
+      "ferrous_wroughtnaut": "2025-06-19 22:32:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/target": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_hay_block": "2025-06-19 22:26:29 +0000"
+      "has_poppy": "2025-06-19 22:49:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_hay_block": "2025-06-19 22:26:29 +0000"
+      "has_bone": "2025-06-19 22:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-06-19 22:57:01 +0000"
     },
     "done": true
   },

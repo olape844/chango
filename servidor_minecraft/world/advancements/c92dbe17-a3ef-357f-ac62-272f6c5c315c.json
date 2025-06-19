@@ -60,6 +60,8 @@
       "minecraft:ocean": "2025-06-19 22:22:07 +0000",
       "minecraft:windswept_savanna": "2025-06-17 21:47:26 +0000",
       "minecraft:warm_ocean": "2025-06-18 23:39:54 +0000",
+      "minecraft:flower_forest": "2025-06-19 22:49:38 +0000",
+      "minecraft:meadow": "2025-06-19 22:50:27 +0000",
       "minecraft:savanna": "2025-06-17 21:24:12 +0000",
       "minecraft:plains": "2025-06-19 02:31:43 +0000"
     },
@@ -2254,6 +2256,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-19 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-06-19 20:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-19 20:57:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
     "criteria": {
       "has_log": "2025-06-19 21:18:07 +0000"
@@ -2266,15 +2286,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "minecraft:recipes/decorations/mangrove_hanging_sign": {
     "criteria": {
-      "has_gold_block": "2025-06-19 20:57:18 +0000"
+      "has_stripped_logs": "2025-06-19 21:18:07 +0000"
     },
     "done": true
   },
-  "graveyard:graveyard/root": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "grave_03": "2025-06-19 22:18:49 +0000"
+      "has_logs": "2025-06-19 21:18:07 +0000"
     },
     "done": true
   },
@@ -2287,12 +2307,6 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-19 21:22:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-06-19 21:53:37 +0000"
     },
     "done": true
   },
@@ -2311,12 +2325,6 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-19 21:22:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-19 21:18:07 +0000"
     },
     "done": true
   },
@@ -2350,21 +2358,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_planks": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_logs": "2025-06-19 21:18:07 +0000"
+      "has_item_frame": "2025-06-19 21:53:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "graveyard:graveyard/root": {
     "criteria": {
-      "has_hay_block": "2025-06-19 20:40:06 +0000"
+      "grave_03": "2025-06-19 22:18:49 +0000"
     },
     "done": true
   },
-  "mowziesmobs:sneak_grove": {
+  "graveyard:graveyard/upper_bone_staff": {
     "criteria": {
-      "sneak_grove": "2025-06-19 20:47:33 +0000"
+      "upper_bone_staff": "2025-06-19 22:58:19 +0000"
     },
     "done": true
   },
