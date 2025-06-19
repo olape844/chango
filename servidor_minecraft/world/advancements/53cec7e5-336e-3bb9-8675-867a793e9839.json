@@ -40,6 +40,7 @@
       "minecraft:beach": "2025-06-13 03:59:55 +0000",
       "minecraft:mangrove_swamp": "2025-06-19 00:17:11 +0000",
       "minecraft:river": "2025-06-13 04:01:08 +0000",
+      "minecraft:dripstone_caves": "2025-06-19 20:46:10 +0000",
       "minecraft:forest": "2025-06-19 00:16:48 +0000",
       "minecraft:desert": "2025-06-13 03:43:44 +0000",
       "minecraft:windswept_savanna": "2025-06-13 19:07:57 +0000",
@@ -1624,24 +1625,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-06-19 02:19:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_planks": {
-    "criteria": {
-      "has_logs": "2025-06-19 02:25:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
-    "criteria": {
-      "has_item": "2025-06-19 02:31:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-06-19 02:15:46 +0000"
@@ -1654,9 +1637,21 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/bestiary": {
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
-      "bestiary": "2025-06-19 02:40:32 +0000"
+      "has_raw_copper": "2025-06-19 02:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-19 02:19:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-06-19 02:25:43 +0000"
     },
     "done": true
   },
@@ -1672,9 +1667,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "iceandfire:recipes/misc/ash_to_charcoal": {
     "criteria": {
-      "has_raw_copper": "2025-06-19 02:15:46 +0000"
+      "has_item": "2025-06-19 02:31:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-06-19 02:40:32 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-06-19 20:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-19 21:04:46 +0000"
     },
     "done": true
   },
