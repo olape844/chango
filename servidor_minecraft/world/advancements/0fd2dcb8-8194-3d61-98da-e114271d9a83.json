@@ -37,10 +37,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-06-19 23:16:02 +0000",
       "minecraft:beach": "2025-06-19 21:51:17 +0000",
       "minecraft:lukewarm_ocean": "2025-06-19 21:51:32 +0000",
       "minecraft:river": "2025-06-19 22:27:14 +0000",
       "minecraft:dripstone_caves": "2025-06-19 21:55:31 +0000",
+      "minecraft:forest": "2025-06-19 23:10:00 +0000",
       "minecraft:desert": "2025-06-19 21:50:20 +0000",
       "minecraft:savanna": "2025-06-19 21:51:40 +0000",
       "minecraft:plains": "2025-06-19 22:35:27 +0000"
@@ -536,6 +538,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-19 21:59:38 +0000",
+      "apple": "2025-06-19 23:32:27 +0000",
       "bread": "2025-06-19 22:26:53 +0000",
       "glow_berries": "2025-06-19 22:18:33 +0000"
     },
@@ -1119,6 +1122,36 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2025-06-19 22:57:01 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-06-19 23:20:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-19 23:16:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-06-19 23:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-19 23:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-19 23:10:02 +0000"
     },
     "done": true
   },

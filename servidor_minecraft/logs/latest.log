@@ -1727,3 +1727,82 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [19Jun2025 23:03:00.514] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-128, 69, -151) minecraft:overworld
 [19Jun2025 23:03:17.064] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Disconnected
 [19Jun2025 23:03:17.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[19Jun2025 23:04:31.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was slain by Chort
+[19Jun2025 23:04:31.196] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-167, 64, -103) minecraft:overworld
+[19Jun2025 23:05:35.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> holas
+[19Jun2025 23:05:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> holi
+[19Jun2025 23:06:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> DIABLOO
+[19Jun2025 23:06:38.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was shot by Pillager
+[19Jun2025 23:06:38.804] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-231, 77, -382) minecraft:overworld
+[19Jun2025 23:07:35.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Monster Hunter]
+[19Jun2025 23:07:36.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was shot by Pillager
+[19Jun2025 23:07:38.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Stone Age]
+[19Jun2025 23:07:50.028] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Auto saving entries
+[19Jun2025 23:07:50.028] [SimpleLogin-Worker-0/INFO] [simplelogin/]: Done! Took 0ms.
+[19Jun2025 23:08:04.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Getting an Upgrade]
+[19Jun2025 23:08:48.611] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.13.82.243:54423] logged in with entity id 80778 at (176.44060271869265, -42.0, -2264.13262105727)
+[19Jun2025 23:08:48.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[19Jun2025 23:08:49.326] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[19Jun2025 23:09:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was shot by Pillager
+[19Jun2025 23:09:19.786] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-193, 66, -327) minecraft:overworld
+[19Jun2025 23:10:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Voluntary Exile]
+[19Jun2025 23:11:43.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was shot by Pillager
+[19Jun2025 23:11:43.171] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-281, 75, -386) minecraft:overworld
+[19Jun2025 23:11:54.599] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-102, y=-58, z=155}
+[19Jun2025 23:12:10.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was slain by Husk
+[19Jun2025 23:13:26.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> prado estass por la aldea?
+[19Jun2025 23:13:33.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> NON
+[19Jun2025 23:13:35.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> no
+[19Jun2025 23:13:38.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> f
+[19Jun2025 23:16:57.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Sweet Dreams]
+[19Jun2025 23:17:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzz
+[19Jun2025 23:17:05.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> estas en la aldea?
+[19Jun2025 23:17:10.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> no
+[19Jun2025 23:17:15.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> encontre otra aldea
+[19Jun2025 23:17:17.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Sweet Dreams]
+[19Jun2025 23:17:20.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Stone Age]
+[19Jun2025 23:17:22.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[19Jun2025 23:17:22.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[19Jun2025 23:17:25.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzz
+[19Jun2025 23:17:25.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:17:26.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:17:26.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:17:26.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:17:26.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:17:26.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:17:26.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:17:29.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[19Jun2025 23:17:32.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[19Jun2025 23:17:32.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[19Jun2025 23:17:41.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:43799] logged in with entity id 95565 at (-604.8520241378305, 67.0, -6447.268682166636)
+[19Jun2025 23:17:41.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[19Jun2025 23:17:42.325] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[19Jun2025 23:18:28.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Acquire Hardware]
+[19Jun2025 23:19:52.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was burnt to a crisp whilst fighting Zombie
+[19Jun2025 23:19:52.513] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-439, 63, -3518) minecraft:overworld
+[19Jun2025 23:19:53.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 fell from a high place
+[19Jun2025 23:19:53.110] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-281, 64, -3399) minecraft:overworld
+[19Jun2025 23:20:27.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.3.178.96:47609] logged in with entity id 98451 at (-105.58078782521589, 62.0, -408.5885534497631)
+[19Jun2025 23:20:27.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[19Jun2025 23:20:28.265] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[19Jun2025 23:20:33.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Gravedigger]
+[19Jun2025 23:21:07.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved wrongly!
+[19Jun2025 23:21:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Getting an Upgrade]
+[19Jun2025 23:21:25.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-646, y=64, z=-6722} BlockPos{x=-645, y=64, z=-6723}
+[19Jun2025 23:21:25.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-646, y=64, z=-6722} BlockPos{x=-645, y=64, z=-6723}
+[19Jun2025 23:21:25.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-646, y=64, z=-6723} BlockPos{x=-645, y=64, z=-6723}
+[19Jun2025 23:23:10.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> benja
+[19Jun2025 23:23:15.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> estoy por llegar a la aldea
+[19Jun2025 23:28:34.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BatmanGordo1 lost connection: Disconnected
+[19Jun2025 23:28:34.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 left the game
+[19Jun2025 23:28:39.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzzz
+[19Jun2025 23:29:04.503] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.3.178.96:45937] logged in with entity id 110130 at (-23.12640898505028, 62.875, -795.6999999880791)
+[19Jun2025 23:29:04.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[19Jun2025 23:29:04.910] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[19Jun2025 23:29:35.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> buenas
+[19Jun2025 23:29:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> OLS
+[19Jun2025 23:30:12.683] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/106629, l='ServerLevel[world]', x=295.54, y=64.00, z=-2173.42] died, message: 'Nitwit was slain by BatmanGordo1'
+[19Jun2025 23:32:56.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> se puede el neger?
+[19Jun2025 23:33:17.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BatmanGordo1> ?
+[19Jun2025 23:33:48.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was shot by Skeleton
+[19Jun2025 23:33:48.760] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(192, -25, -2237) minecraft:overworld

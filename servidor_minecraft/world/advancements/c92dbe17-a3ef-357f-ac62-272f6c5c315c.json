@@ -50,14 +50,18 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-06-19 22:21:45 +0000",
+      "minecraft:cherry_grove": "2025-06-19 23:18:47 +0000",
+      "minecraft:windswept_hills": "2025-06-19 23:26:45 +0000",
       "minecraft:beach": "2025-06-17 21:23:42 +0000",
       "minecraft:mangrove_swamp": "2025-06-17 21:48:43 +0000",
       "minecraft:sparse_jungle": "2025-06-19 02:32:02 +0000",
       "minecraft:river": "2025-06-17 21:25:17 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-19 23:09:09 +0000",
       "minecraft:dripstone_caves": "2025-06-19 02:42:25 +0000",
       "minecraft:forest": "2025-06-19 02:35:58 +0000",
       "minecraft:desert": "2025-06-17 21:19:10 +0000",
       "minecraft:ocean": "2025-06-19 22:22:07 +0000",
+      "minecraft:jungle": "2025-06-19 23:08:07 +0000",
       "minecraft:windswept_savanna": "2025-06-17 21:47:26 +0000",
       "minecraft:warm_ocean": "2025-06-18 23:39:54 +0000",
       "minecraft:flower_forest": "2025-06-19 22:49:38 +0000",
@@ -2373,6 +2377,96 @@
   "graveyard:graveyard/upper_bone_staff": {
     "criteria": {
       "upper_bone_staff": "2025-06-19 22:58:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-06-19 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-19 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-19 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-06-19 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-06-19 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-06-19 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-19 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-19 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-06-19 23:08:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-06-19 23:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-06-19 23:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-06-19 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-06-19 23:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-06-19 23:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-19 23:21:26 +0000"
     },
     "done": true
   },
