@@ -1355,3 +1355,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 22:11:27.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:38797] logged in with entity id 114880 at (388.4076866516909, 68.0, -2153.7256787843385)
 [20Jun2025 22:11:27.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
 [20Jun2025 22:11:27.871] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[20Jun2025 22:13:03.440] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:43113] logged in with entity id 115926 at (62.663290230491064, 67.0, -1940.381333842812)
+[20Jun2025 22:13:03.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 22:13:04.358] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 22:13:33.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[20Jun2025 22:13:33.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 22:15:01.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Disconnected
+[20Jun2025 22:15:01.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
+[20Jun2025 22:16:49.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:56561] logged in with entity id 117533 at (62.663290230491064, 67.0, -1940.381333842812)
+[20Jun2025 22:16:49.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 22:16:49.926] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 22:16:59.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[20Jun2025 22:16:59.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kick<--[HERE]
+[20Jun2025 22:17:19.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[20Jun2025 22:17:19.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 22:19:18.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:53639] logged in with entity id 118639 at (62.663290230491064, 67.0, -1940.381333842812)
+[20Jun2025 22:19:18.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 22:19:19.032] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 22:19:48.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[20Jun2025 22:19:48.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 22:20:42.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -2.19437524330408,-6.001335979112142,7.975024743460381
+[20Jun2025 22:21:33.890] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:54297] logged in with entity id 119967 at (62.663290230491064, 67.0, -1940.381333842812)
+[20Jun2025 22:21:33.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 22:21:34.266] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 22:26:05.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon drowned
+[20Jun2025 22:26:05.339] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-391, 56, -2221) minecraft:overworld
+[20Jun2025 22:26:19.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> re wn
+[20Jun2025 22:26:27.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> tu vieja
+[20Jun2025 22:29:26.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -6.466950841025664,-6.772792653453678,-6.554870980095529
+[20Jun2025 22:30:26.642] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 22:30:50.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> z
+[20Jun2025 22:30:50.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> z
+[20Jun2025 22:30:51.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> z
+[20Jun2025 22:30:57.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> z
+[20Jun2025 22:31:01.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> z
+[20Jun2025 22:31:02.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> zz
+[20Jun2025 22:31:06.693] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[20Jun2025 22:31:06.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 22:31:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20Jun2025 22:31:11.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20Jun2025 22:31:14.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[20Jun2025 22:31:45.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Juandi3531, Haazk
+[20Jun2025 22:31:55.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned Haazk: Banned by an operator.
+[20Jun2025 22:31:55.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: You are banned from this server
+[20Jun2025 22:31:55.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[20Jun2025 22:32:19.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set the time to 1000]
