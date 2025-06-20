@@ -1164,3 +1164,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 18:43:20.911] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(275, 63, -2095) minecraft:overworld
 [20Jun2025 18:43:32.614] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [20Jun2025 18:43:32.614] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[20Jun2025 18:53:50.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:42319] logged in with entity id 50531 at (308.5, 67.0, -2180.5)
+[20Jun2025 18:53:50.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 18:53:54.519] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 18:53:59.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> buenas
+[20Jun2025 18:54:04.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> zzz
+[20Jun2025 18:54:20.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[20Jun2025 18:54:20.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 18:55:53.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Book of Monsters]
+[20Jun2025 18:56:34.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:58595] logged in with entity id 51303 at (308.5, 67.0, -2180.5)
+[20Jun2025 18:56:34.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 18:56:35.620] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 18:56:38.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> gracias
+[20Jun2025 18:57:04.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[20Jun2025 18:57:04.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 18:58:40.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:39619] logged in with entity id 51865 at (308.5, 67.0, -2180.5)
+[20Jun2025 18:58:40.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 18:58:40.675] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 18:59:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> olas
+[20Jun2025 18:59:33.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> olas
+[20Jun2025 18:59:36.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> buenas
+[20Jun2025 18:59:38.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> juandi
+[20Jun2025 18:59:42.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> vos donde estas?
+[20Jun2025 18:59:48.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> en la aldea
+[20Jun2025 18:59:52.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> apa
+[20Jun2025 19:00:11.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cómo consiguieron las armaduras
+[20Jun2025 19:00:18.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> por el mineral del nether
+[20Jun2025 19:00:23.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> este mira
+[20Jun2025 19:00:48.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y ese se mina?
+[20Jun2025 19:00:52.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> si
+[20Jun2025 19:01:05.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> en el nether, se encuentra bastante
+[20Jun2025 19:01:21.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> pero el problema es que esta lleno de enemigos
+[20Jun2025 19:01:27.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> caraho
+[20Jun2025 19:01:48.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> hay enanos peteros rojos, chanchas culiadas, literalmente, y mas bicho rompe pingas
+[20Jun2025 19:01:57.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> si
+[20Jun2025 19:01:59.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> y hay una PUTA GORDA
+[20Jun2025 19:02:14.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el piglin?
+[20Jun2025 19:02:16.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> LA GORDA PUTONA
+[20Jun2025 19:02:19.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> si
+[20Jun2025 19:02:26.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> es un boss
+[20Jun2025 19:02:32.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ni si quiera
+[20Jun2025 19:02:37.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> es mini boss
+[20Jun2025 19:02:42.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> bueno
+[20Jun2025 19:02:43.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> eso
+[20Jun2025 19:02:55.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> y yo me encontre un jefe raro
+[20Jun2025 19:03:07.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> solo lo mire de lejos, y no tiene barra de vida
+[20Jun2025 19:03:21.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cómo es
+[20Jun2025 19:03:25.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> pero es buena la arena de batalla donde peleas
+[20Jun2025 19:03:30.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pradolf56> ya te paso foto
+[20Jun2025 19:04:48.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[20Jun2025 19:04:48.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 19:06:26.253] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/47267, l='ServerLevel[world]', x=233.43, y=67.00, z=-2150.30] died, message: 'Farmer was slain by Zombie'
+[20Jun2025 19:09:53.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Hot Stuff]
+[20Jun2025 19:11:43.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Hot Stuff]
+[20Jun2025 19:19:27.055] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[20Jun2025 19:19:40.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[20Jun2025 19:19:45.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Not Today, Thank You]
+[20Jun2025 19:19:53.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Monster Hunter]
+[20Jun2025 19:22:06.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Imp
+[20Jun2025 19:22:06.511] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(151, 34, -493) minecraft:the_nether
