@@ -1114,3 +1114,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 17:37:16.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 31329 chunks (100.00%), Total time: 0:14:39
 [20Jun2025 17:44:49.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
 [20Jun2025 17:44:49.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 18:22:26.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.13.82.243:35967] logged in with entity id 35978 at (60.38008164169037, 62.0, -430.61266680297507)
+[20Jun2025 18:22:26.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[20Jun2025 18:22:27.578] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[20Jun2025 18:22:27.752] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[20Jun2025 18:22:35.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Pradolf56
+[20Jun2025 18:22:38.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 suffocated in a wall
+[20Jun2025 18:22:38.960] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(59, 62, -431) minecraft:the_nether
+[20Jun2025 18:22:56.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 lost connection: Timed out
+[20Jun2025 18:22:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 left the game
+[20Jun2025 18:24:23.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[20Jun2025 18:24:34.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pradolf56[/127.13.82.243:43389] logged in with entity id 36260 at (60.38008164169037, 62.0, -430.61266680297507)
+[20Jun2025 18:24:34.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 joined the game
+[20Jun2025 18:24:34.703] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player pradolf56 has successfully logged in.
+[20Jun2025 18:25:44.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:32799] logged in with entity id 36928 at (393.3954202962059, 64.0, -2150.2283754269397)
+[20Jun2025 18:25:44.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
+[20Jun2025 18:25:46.521] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
+[20Jun2025 18:27:29.266] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 18:28:48.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [The Soul Fortress]
+[20Jun2025 18:29:35.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Pradolf56, rotto123
+[20Jun2025 18:30:09.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zz
+[20Jun2025 18:30:09.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[20Jun2025 18:30:09.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[20Jun2025 18:30:09.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[20Jun2025 18:30:09.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[20Jun2025 18:30:10.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zzzz
+[20Jun2025 18:30:10.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[20Jun2025 18:32:07.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Lava Eater
+[20Jun2025 18:32:07.707] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(14, 48, -384) minecraft:the_nether
+[20Jun2025 18:32:40.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [Ol' Betsy]
+[20Jun2025 18:33:08.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was slain by Chort
+[20Jun2025 18:33:09.000] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(304, 64, -2166) minecraft:overworld
+[20Jun2025 18:33:11.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Lava Eater
+[20Jun2025 18:33:11.520] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(17, 49, -375) minecraft:the_nether
+[20Jun2025 18:33:33.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was slain by Chort
+[20Jun2025 18:34:09.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Pigmar
+[20Jun2025 18:34:09.862] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(1, 54, -333) minecraft:the_nether
+[20Jun2025 18:35:12.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pradolf56 moved too quickly! 0.7662540952489358,-12.0,9.600552908243685
+[20Jun2025 18:35:14.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 has made the advancement [A Voltanic Place]
+[20Jun2025 18:35:16.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Lava Eater
+[20Jun2025 18:35:16.620] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(18, 51, -368) minecraft:the_nether
+[20Jun2025 18:36:54.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [We Need to Go Deeper]
+[20Jun2025 18:37:28.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 18:39:53.812] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
