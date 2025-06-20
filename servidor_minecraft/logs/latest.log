@@ -1272,3 +1272,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 21:51:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> si
 [20Jun2025 21:51:28.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was blown up by Creeper
 [20Jun2025 21:51:28.331] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(298, 74, -2113) minecraft:overworld
+[20Jun2025 21:51:46.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> se me rompio la cama
+[20Jun2025 21:51:51.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> estoy en el spawn
+[20Jun2025 21:51:53.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> al juandi
+[20Jun2025 21:52:00.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> yo ya me fui
+[20Jun2025 21:52:19.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> tengo cooldawn
+[20Jun2025 21:52:21.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> tengo cooldawn
+[20Jun2025 21:52:49.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon burned to death
+[20Jun2025 21:52:49.438] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-117, 61, -2214) minecraft:overworld
+[20Jun2025 21:52:59.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> para
+[20Jun2025 21:53:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> AJAJAJAJ
+[20Jun2025 21:53:12.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> gracias igual
+[20Jun2025 21:53:34.041] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 21:54:13.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[20Jun2025 21:54:13.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[20Jun2025 21:55:13.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> DUERMAAAAN
+[20Jun2025 21:55:16.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> DUERMAAAN++
+[20Jun2025 21:55:21.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> LA PUTA MADREEEEEEEEEEEEE
+[20Jun2025 21:55:26.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> karma
+[20Jun2025 21:55:27.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> AJAJJA
+[20Jun2025 21:55:33.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> jodita
+[20Jun2025 21:55:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was shot by Skeleton
+[20Jun2025 21:56:11.431] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5dab6ac0[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:34439) lost connection: Disconnected
+[20Jun2025 21:56:16.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:44713] logged in with entity id 102222 at (389.8034699780464, 64.0, -2152.7207615965535)
+[20Jun2025 21:56:16.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[20Jun2025 21:56:17.115] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[20Jun2025 21:58:52.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was turned into KFC by Fire Dragon
+[20Jun2025 21:59:00.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! -7.022858630330575,0.0,7.299113955675693
+[20Jun2025 21:59:16.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> que inutiles que son los dragones de la superficie
+[20Jun2025 21:59:37.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> NO SÉ. A MI ME CULEAN
+[20Jun2025 21:59:46.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> tenia el mayus activado
+[20Jun2025 21:59:47.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> a mi tamb
+[20Jun2025 21:59:53.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> pero son re inutiles
+[20Jun2025 22:00:00.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> estan para romper las bolas
+[20Jun2025 22:00:06.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ah si
+[20Jun2025 22:00:14.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y pa sacarles sangrea
+[20Jun2025 22:00:28.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> son inutiles hasta para eso
+[20Jun2025 22:00:37.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> de quien es la casa que tiene una picha
+[20Jun2025 22:00:44.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> si, te dan una botellita
+[20Jun2025 22:01:14.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> la que esta al lado de la del cocas es la del facu
+[20Jun2025 22:01:31.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> piol.a
