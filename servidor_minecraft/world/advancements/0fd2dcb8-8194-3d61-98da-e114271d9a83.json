@@ -537,10 +537,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-06-20 20:56:03 +0000",
       "cooked_mutton": "2025-06-19 21:59:38 +0000",
       "apple": "2025-06-19 23:32:27 +0000",
       "bread": "2025-06-19 22:26:53 +0000",
-      "glow_berries": "2025-06-19 22:18:33 +0000"
+      "glow_berries": "2025-06-19 22:18:33 +0000",
+      "golden_carrot": "2025-06-20 20:53:56 +0000"
     },
     "done": false
   },
@@ -1661,6 +1663,30 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-06-20 20:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-20 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-20 20:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-20 20:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-20 20:42:23 +0000"
     },
     "done": true
   },
