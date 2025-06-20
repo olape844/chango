@@ -1423,3 +1423,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 23:16:30.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon fell from a high place
 [20Jun2025 23:16:30.983] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-200, 31, -2081) minecraft:overworld
 [20Jun2025 23:20:04.873] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 23:24:18.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:37001] logged in with entity id 150464 at (308.9786538107182, 65.5625, -2291.885293023952)
+[20Jun2025 23:24:18.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 23:24:20.067] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 23:24:48.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[20Jun2025 23:24:48.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 23:25:09.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:57769] logged in with entity id 151080 at (308.9786538107182, 65.5625, -2291.885293023952)
+[20Jun2025 23:25:09.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 23:25:09.700] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 23:25:24.886] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[20Jun2025 23:25:24.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 23:25:24.941] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Jun2025 23:25:37.339] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:49753] logged in with entity id 151570 at (-390.47821160697004, 15.0, -2364.2958107594245)
+[20Jun2025 23:25:37.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 23:25:37.751] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 23:28:57.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> tengo literalmemte un nido de dragon etapa 5 creo encima mio
+[20Jun2025 23:29:07.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> manso
+[20Jun2025 23:29:20.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> e tu casa?
+[20Jun2025 23:29:26.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> nono
+[20Jun2025 23:29:32.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> guardate las coords por las dudas
+[20Jun2025 23:29:46.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon walked into fire whilst fighting Fire Dragon
+[20Jun2025 23:29:46.589] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-456, -3, -2473) minecraft:overworld
+[20Jun2025 23:29:53.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> si era?
+[20Jun2025 23:29:54.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> mrd
+[20Jun2025 23:30:08.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> me follo
+[20Jun2025 23:30:14.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> q ñico
+[20Jun2025 23:33:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon fell from a high place
+[20Jun2025 23:33:29.689] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-390, 26, -2441) minecraft:overworld
