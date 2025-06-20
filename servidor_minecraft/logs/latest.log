@@ -318,3 +318,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 01:15:04.911] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
 [20Jun2025 01:15:17.505] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
 [20Jun2025 01:15:17.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 01:22:06.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> E
+[20Jun2025 01:22:13.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:54101] logged in with entity id 10451 at (-69.5, 64.0, -125.5)
+[20Jun2025 01:22:13.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 01:22:13.860] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 01:22:35.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Chort
+[20Jun2025 01:22:35.867] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(233, 64, -2145) minecraft:overworld
+[20Jun2025 01:22:42.878] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 01:22:58.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> PENES
+[20Jun2025 01:23:05.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> ya vuelvo
+[20Jun2025 01:23:42.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ok
+[20Jun2025 01:23:51.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[20Jun2025 01:23:51.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 01:23:51.824] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Jun2025 01:29:50.735] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=26, y=55, z=-1270}
+[20Jun2025 01:29:50.735] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=23, y=55, z=-1269}
+[20Jun2025 01:33:31.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[20Jun2025 01:33:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 01:33:49.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[20Jun2025 01:33:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[20Jun2025 01:34:02.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:44239] logged in with entity id 15739 at (-169.44580888782207, 65.0, -1480.699999988079)
+[20Jun2025 01:34:02.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 01:34:03.274] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 01:34:11.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was shot by Skeleton
+[20Jun2025 01:34:11.714] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-169, 64, -1476) minecraft:overworld
+[20Jun2025 01:34:31.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set own game mode to Spectator Mode]
+[20Jun2025 01:35:09.258] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 moved too quickly! 2.00644227991134,0.0,-10.702437562675868
+[20Jun2025 01:35:27.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Teleported Juandi3531 to 264.500000, 65.500000, -2156.500000]
+[20Jun2025 01:35:38.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set own game mode to Survival Mode]
+[20Jun2025 01:35:58.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Juandi3531 no longer a server operator
