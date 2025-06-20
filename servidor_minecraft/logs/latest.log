@@ -308,3 +308,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 16:44:00.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:57953] logged in with entity id 8852 at (279.38413740431264, 64.0, -2144.044087618556)
 [20Jun2025 16:44:00.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
 [20Jun2025 16:44:03.213] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 16:50:37.124] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/10432, l='ServerLevel[world]', x=336.01, y=83.44, z=-2491.07]
+[20Jun2025 16:50:37.126] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/10436, l='ServerLevel[world]', x=336.15, y=82.29, z=-2494.75]
+[20Jun2025 16:50:37.127] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/10437, l='ServerLevel[world]', x=336.19, y=81.80, z=-2496.48]
+[20Jun2025 16:50:37.127] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/10439, l='ServerLevel[world]', x=336.19, y=83.89, z=-2494.70]
+[20Jun2025 16:50:37.127] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/10440, l='ServerLevel[world]', x=336.11, y=83.12, z=-2496.12]
+[20Jun2025 16:50:37.127] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/10441, l='ServerLevel[world]', x=336.16, y=82.61, z=-2497.61]
+[20Jun2025 16:53:57.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [We Need to Go Deeper]
