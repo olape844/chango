@@ -290,3 +290,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 16:18:07.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
 [20Jun2025 16:18:07.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
 [20Jun2025 16:18:07.295] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20Jun2025 16:20:34.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:48207] logged in with entity id 6127 at (244.39001356126676, 65.46634750372172, -2170.884660230855)
+[20Jun2025 16:20:34.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 16:20:35.317] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 16:21:09.906] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 16:21:09.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[20Jun2025 16:21:09.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[20Jun2025 16:21:09.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[20Jun2025 16:21:09.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[20Jun2025 16:26:14.353] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[20Jun2025 16:26:14.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
