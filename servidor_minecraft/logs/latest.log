@@ -1450,3 +1450,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 23:30:14.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> q ñico
 [20Jun2025 23:33:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon fell from a high place
 [20Jun2025 23:33:29.689] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-390, 26, -2441) minecraft:overworld
+[20Jun2025 23:33:44.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> QUE GANAS DE PEGARME UN TIRO
+[20Jun2025 23:33:55.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el dia blo
+[20Jun2025 23:34:17.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> necesita ayuda?
+[20Jun2025 23:34:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> por ahora no
+[20Jun2025 23:34:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya
+[20Jun2025 23:34:59.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> igual creo que me llagas a acompañar y nos cojen a los 2
+[20Jun2025 23:35:07.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> probablemente
+[20Jun2025 23:35:44.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> quedó adentro del nido?
+[20Jun2025 23:35:54.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> el que?
+[20Jun2025 23:35:58.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> tumba
+[20Jun2025 23:36:03.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> non
+[20Jun2025 23:36:04.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[20Jun2025 23:36:04.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 23:36:41.083] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:58921] logged in with entity id 158326 at (-115.69999998807907, 76.0, -2314.699999988079)
+[20Jun2025 23:36:41.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 23:36:41.785] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 23:37:11.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[20Jun2025 23:37:11.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 23:38:51.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:33085] logged in with entity id 159270 at (-115.69999998807907, 76.0, -2314.699999988079)
+[20Jun2025 23:38:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 23:38:51.517] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 23:39:32.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> son una mrd los dragones
+[20Jun2025 23:39:58.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> apenas tenga un arco los hago re pelota
+[20Jun2025 23:40:05.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> x3
+[20Jun2025 23:40:05.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> bueno flechas en realidad
+[20Jun2025 23:40:08.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> x2
+[20Jun2025 23:40:59.139] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 23:41:47.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> tenia el dragon atras mio
+[20Jun2025 23:41:53.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> el diablo
+[20Jun2025 23:41:58.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> y yo en un 1x1 resando
+[20Jun2025 23:42:05.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> JAJJA
+[20Jun2025 23:42:55.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> que le paso a la casa del facu?
+[20Jun2025 23:42:57.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xd
+[20Jun2025 23:43:02.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> un criper
+[20Jun2025 23:43:10.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xdd
+[20Jun2025 23:43:25.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> amigo nunca habia visto tantos criper
+[20Jun2025 23:43:32.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me tenian rodeado casi
