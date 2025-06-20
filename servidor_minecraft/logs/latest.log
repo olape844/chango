@@ -347,3 +347,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 01:35:27.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Teleported Juandi3531 to 264.500000, 65.500000, -2156.500000]
 [20Jun2025 01:35:38.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set own game mode to Survival Mode]
 [20Jun2025 01:35:58.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Juandi3531 no longer a server operator
+[20Jun2025 01:40:39.906] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 01:40:39.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[20Jun2025 01:40:39.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[20Jun2025 01:40:39.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[20Jun2025 01:40:39.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[20Jun2025 01:40:45.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[20Jun2025 01:40:45.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
