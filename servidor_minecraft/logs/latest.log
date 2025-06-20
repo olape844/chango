@@ -278,3 +278,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 15:50:20.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
 [20Jun2025 15:51:39.878] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.703 ms. 2110/2140 recipes are parallelized.
 [20Jun2025 15:59:35.574] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/1676, l='ServerLevel[world]', x=432.04, y=68.00, z=-2015.50]
+[20Jun2025 16:16:41.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[20Jun2025 16:16:41.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 16:16:57.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 0 of a max of 20 players online: 
+[20Jun2025 16:17:01.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[20Jun2025 16:17:37.218] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:44019] logged in with entity id 5740 at (244.39001356126676, 65.46634750372172, -2170.884660230855)
+[20Jun2025 16:17:37.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 16:17:38.288] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 16:17:49.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[20Jun2025 16:17:49.416] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(244, 65, -2172) minecraft:overworld
+[20Jun2025 16:18:07.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[20Jun2025 16:18:07.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 16:18:07.295] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
