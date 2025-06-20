@@ -277,3 +277,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 15:50:19.471] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
 [20Jun2025 15:50:20.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
 [20Jun2025 15:51:39.878] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.703 ms. 2110/2140 recipes are parallelized.
+[20Jun2025 15:59:35.574] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/1676, l='ServerLevel[world]', x=432.04, y=68.00, z=-2015.50]
