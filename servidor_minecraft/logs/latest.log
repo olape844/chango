@@ -336,3 +336,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 17:09:16.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:56027] logged in with entity id 16524 at (297.2834822285414, 64.00133597911214, -2144.7495209764193)
 [20Jun2025 17:09:16.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
 [20Jun2025 17:09:17.476] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 17:10:35.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [A Seedy Place]
+[20Jun2025 17:16:36.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 1000
+[20Jun2025 17:17:05.052] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 70.60 μs. 128/128 recipes are parallelized.
+[20Jun2025 17:19:25.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[20Jun2025 17:19:25.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
