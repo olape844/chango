@@ -1069,3 +1069,124 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 21:10:26.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:54111] logged in with entity id 57561 at (408.0798533909377, 60.56792265701615, -2116.2440971298265)
 [20Jun2025 21:10:26.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
 [20Jun2025 21:10:26.826] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[20Jun2025 21:10:53.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk drowned
+[20Jun2025 21:10:56.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[20Jun2025 21:10:56.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[20Jun2025 21:11:55.730] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:36047] logged in with entity id 58283 at (408.0798533909377, 60.56792265701615, -2116.2440971298265)
+[20Jun2025 21:11:55.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[20Jun2025 21:11:56.089] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[20Jun2025 21:13:18.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:58401] logged in with entity id 59496 at (308.94634770468684, 74.0, -2114.171147484208)
+[20Jun2025 21:13:18.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
+[20Jun2025 21:13:18.544] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
+[20Jun2025 21:13:38.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:48225] logged in with entity id 59867 at (577.6999999880791, 30.0, -1473.602421750101)
+[20Jun2025 21:13:38.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 21:13:39.611] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 21:13:44.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Zombie
+[20Jun2025 21:13:44.847] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(577, 30, -1474) minecraft:overworld
+[20Jun2025 21:13:56.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was turned into KFC by Fire Dragon
+[20Jun2025 21:13:56.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(696, 66, -2059) minecraft:overworld
+[20Jun2025 21:14:08.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[20Jun2025 21:14:08.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 21:14:12.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> alguien me ayuda
+[20Jun2025 21:14:16.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> porfis
+[20Jun2025 21:15:45.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:59585] logged in with entity id 61773 at (577.6999999880791, 30.0, -1473.602421750101)
+[20Jun2025 21:15:45.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 21:15:46.002] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 21:16:13.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> hay un dragonm
+[20Jun2025 21:16:28.750] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 21:16:30.393] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[20Jun2025 21:16:30.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 21:16:31.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was slain by Overgrown Colossus
+[20Jun2025 21:16:31.431] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(665, 70, -2105) minecraft:overworld
+[20Jun2025 21:16:41.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Ice Bucket Challenge]
+[20Jun2025 21:17:01.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:56749] logged in with entity id 63229 at (310.5, 65.0, -2291.5)
+[20Jun2025 21:17:01.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 21:17:01.719] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 21:18:00.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [Covered in Moss]
+[20Jun2025 21:18:17.792] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 21:18:18.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk was slain by Overgrown Colossus
+[20Jun2025 21:18:18.328] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(651, 70, -2126) minecraft:overworld
+[20Jun2025 21:18:22.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> uuu
+[20Jun2025 21:19:12.544] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 21:19:16.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> donde esta el dragoh
+[20Jun2025 21:19:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was slain by Overgrown Colossus
+[20Jun2025 21:19:19.076] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(668, 69, -2123) minecraft:overworld
+[20Jun2025 21:19:21.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> nose
+[20Jun2025 21:20:04.493] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 21:20:12.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! -7.504676078510475,1.5040129017765196,-6.658657519054941
+[20Jun2025 21:20:20.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me olvidé de meter los dragonseeker
+[20Jun2025 21:21:03.445] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 21:21:03.446] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[20Jun2025 21:21:03.446] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[20Jun2025 21:21:03.446] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[20Jun2025 21:21:03.446] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[20Jun2025 21:21:39.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> donde esta el dragoh
+[20Jun2025 21:21:43.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> nose
+[20Jun2025 21:21:45.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon has made the advancement [Who You Gonna Call?]
+[20Jun2025 21:21:52.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> estaba en una estructura atras
+[20Jun2025 21:21:58.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> y despues no estaba
+[20Jun2025 21:22:21.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> yo vuelvo a mi casa
+[20Jun2025 21:22:40.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> alguien esta en la aldea ?
+[20Jun2025 21:23:06.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> que mierda
+[20Jun2025 21:23:14.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> es un hypograpy
+[20Jun2025 21:23:26.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> o hypogrip
+[20Jun2025 21:23:39.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> parece un agila
+[20Jun2025 21:23:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> no es el mitad leon, mitad aguila?
+[20Jun2025 21:24:03.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk moved too quickly! 9.916819022584377,1.3331999936342243,-0.563456521050739
+[20Jun2025 21:24:18.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 died because of Skeleton
+[20Jun2025 21:24:18.132] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(531, 64, -1558) minecraft:overworld
+[20Jun2025 21:24:35.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> duerman hijos de la gran puta
+[20Jun2025 21:24:37.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[20Jun2025 21:24:37.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 21:24:43.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was shot by Skeleton
+[20Jun2025 21:24:43.086] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(530, 65, -2112) minecraft:overworld
+[20Jun2025 21:25:15.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:37703] logged in with entity id 74250 at (-378.5897036373741, 64.0, -2431.300000011921)
+[20Jun2025 21:25:15.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 21:25:15.579] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 21:25:16.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> gracias
+[20Jun2025 21:25:26.667] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
+[20Jun2025 21:25:26.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[20Jun2025 21:25:38.991] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 21:25:49.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[20Jun2025 21:25:49.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 21:26:00.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:36705] logged in with entity id 75043 at (307.48440826973496, 66.0, -2292.1659252040868)
+[20Jun2025 21:26:00.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[20Jun2025 21:26:01.108] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[20Jun2025 21:26:29.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:58447] logged in with entity id 75224 at (-377.37026468298336, 63.0, -2431.699999988079)
+[20Jun2025 21:26:29.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 21:26:30.689] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[20Jun2025 21:26:30.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[20Jun2025 21:26:30.872] [Netty Epoll Server IO #5/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 21:26:35.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rotto123 lost connection: Disconnected
+[20Jun2025 21:26:35.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 left the game
+[20Jun2025 21:26:54.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dormiputa
+[20Jun2025 21:27:03.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[20Jun2025 21:27:03.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 21:27:06.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:44907] logged in with entity id 75691 at (307.48440826973496, 66.0, -2292.1659252040868)
+[20Jun2025 21:27:06.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
+[20Jun2025 21:27:07.252] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[20Jun2025 21:27:11.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: benjamon, Haazk
+[20Jun2025 21:27:29.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[20Jun2025 21:27:29.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 21:27:49.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:58941] logged in with entity id 76452 at (-377.37026468298336, 63.0, -2431.699999988079)
+[20Jun2025 21:27:49.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 21:27:49.760] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 21:28:26.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rotto123[/127.30.129.226:36713] logged in with entity id 76975 at (414.87376482154923, 61.821564021077414, -2100.371478806432)
+[20Jun2025 21:28:26.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 joined the game
+[20Jun2025 21:28:26.581] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player rotto123 has successfully logged in.
+[20Jun2025 21:28:31.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:37721] logged in with entity id 77197 at (308.5, 65.0, -2290.5)
+[20Jun2025 21:28:31.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[20Jun2025 21:28:33.175] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[20Jun2025 21:28:38.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> van a dormir?
+[20Jun2025 21:28:47.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> pera que llegue
+[20Jun2025 21:29:01.940] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[20Jun2025 21:29:01.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 21:29:09.733] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[20Jun2025 21:29:09.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 21:29:22.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Timed out
+[20Jun2025 21:29:22.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
+[20Jun2025 21:29:23.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> zz
+[20Jun2025 21:29:23.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <rotto123> z
+[20Jun2025 21:30:20.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:53901] logged in with entity id 77913 at (-377.30000001192093, 63.0, -2431.300000011921)
+[20Jun2025 21:30:20.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 21:30:21.109] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player benjamon has successfully logged in.

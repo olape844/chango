@@ -50,11 +50,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:sunflower_plains": "2025-06-19 23:16:00 +0000",
+      "minecraft:wooded_badlands": "2025-06-20 21:16:14 +0000",
+      "minecraft:badlands": "2025-06-20 21:21:57 +0000",
       "minecraft:beach": "2025-06-19 23:05:59 +0000",
       "minecraft:river": "2025-06-19 23:20:31 +0000",
       "minecraft:dripstone_caves": "2025-06-20 18:35:31 +0000",
       "minecraft:forest": "2025-06-19 23:06:07 +0000",
       "minecraft:desert": "2025-06-19 23:02:49 +0000",
+      "minecraft:jungle": "2025-06-20 21:15:46 +0000",
       "minecraft:flower_forest": "2025-06-19 23:23:47 +0000",
       "minecraft:savanna": "2025-06-19 23:05:55 +0000",
       "minecraft:plains": "2025-06-19 23:15:45 +0000"
@@ -1408,6 +1411,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-06-20 19:19:53 +0000",
+      "minecraft:spider": "2025-06-20 21:25:45 +0000",
       "minecraft:zombie": "2025-06-20 20:31:43 +0000"
     },
     "done": false
@@ -1484,9 +1488,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2025-06-20 20:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-20 20:16:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-06-20 20:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-06-20 20:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-06-20 20:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-20 20:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-20 20:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-06-20 20:36:18 +0000"
     },
     "done": true
   },
@@ -1508,21 +1554,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-06-20 20:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-20 20:49:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-06-20 20:34:54 +0000"
     },
     "done": true
   },
@@ -1568,12 +1602,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-20 20:36:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-20 20:49:23 +0000"
@@ -1586,45 +1614,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_the_recipe": "2025-06-20 20:13:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-20 20:49:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-20 20:36:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-20 20:49:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-06-20 20:36:18 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-06-20 20:53:52 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:sneak_grove": {
-    "criteria": {
-      "sneak_grove": "2025-06-20 20:53:36 +0000"
     },
     "done": true
   },
@@ -1640,9 +1638,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "mowziesmobs:sneak_grove": {
     "criteria": {
-      "has_iron_nugget": "2025-06-20 20:16:53 +0000"
+      "sneak_grove": "2025-06-20 20:53:36 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-06-20 20:53:52 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_mossy_temple": {
+    "criteria": {
+      "mossy_temple": "2025-06-20 21:18:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-06-20 21:23:16 +0000"
     },
     "done": true
   },

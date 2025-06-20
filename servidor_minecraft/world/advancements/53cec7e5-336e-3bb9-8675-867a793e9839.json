@@ -2310,15 +2310,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_sandstone": "2025-06-20 21:05:42 +0000"
+      "lava_bucket": "2025-06-20 20:36:22 +0000"
     },
     "done": true
   },
   "legendary_monsters:locate_ruined_pyramid": {
     "criteria": {
       "ruined_pyramid": "2025-06-20 20:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-06-20 21:05:42 +0000"
     },
     "done": true
   },
@@ -2349,12 +2355,6 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-06-20 21:05:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-06-20 20:36:22 +0000"
     },
     "done": true
   },

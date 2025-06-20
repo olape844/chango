@@ -50,6 +50,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:wooded_badlands": "2025-06-20 21:03:08 +0000",
+      "minecraft:badlands": "2025-06-20 21:16:46 +0000",
       "minecraft:beach": "2025-06-19 21:21:22 +0000",
       "minecraft:river": "2025-06-19 21:34:20 +0000",
       "minecraft:dripstone_caves": "2025-06-19 21:48:32 +0000",
@@ -1902,6 +1903,36 @@
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2025-06-20 21:06:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-06-20 21:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-06-20 21:13:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-06-20 21:16:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-20 21:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-20 21:16:41 +0000"
     },
     "done": true
   },
