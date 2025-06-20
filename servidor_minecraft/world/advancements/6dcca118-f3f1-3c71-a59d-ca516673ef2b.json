@@ -393,6 +393,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-19 23:07:35 +0000",
+      "minecraft:spider": "2025-06-19 23:55:05 +0000",
       "minecraft:husk": "2025-06-19 23:12:28 +0000"
     },
     "done": false
@@ -1162,6 +1163,36 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-06-19 23:50:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-06-19 23:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-19 23:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-19 23:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-19 23:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-19 23:59:47 +0000"
     },
     "done": true
   },
