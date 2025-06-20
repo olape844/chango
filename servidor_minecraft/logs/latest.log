@@ -1112,3 +1112,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 17:37:14.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 31281 chunks (99.85%), ETA: 0:00:01, Rate: 24.6 cps, Current: 104, -57
 [20Jun2025 17:37:15.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 31304 chunks (99.92%), ETA: 0:00:00, Rate: 25.6 cps, Current: 97, -47
 [20Jun2025 17:37:16.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 31329 chunks (100.00%), Total time: 0:14:39
+[20Jun2025 17:44:49.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[20Jun2025 17:44:49.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
