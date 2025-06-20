@@ -1400,3 +1400,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 22:31:55.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: You are banned from this server
 [20Jun2025 22:31:55.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
 [20Jun2025 22:32:19.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set the time to 1000]
+[20Jun2025 22:33:40.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:59893] logged in with entity id 128721 at (-432.69999998807907, 17.0, -2282.3624130902863)
+[20Jun2025 22:33:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 22:33:41.131] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 22:36:01.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set own game mode to Creative Mode]
+[20Jun2025 22:37:28.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set own game mode to Survival Mode]
