@@ -354,3 +354,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 01:40:39.907] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
 [20Jun2025 01:40:45.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
 [20Jun2025 01:40:45.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[20Jun2025 02:05:18.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BatmanGordo1[/127.3.178.96:34193] logged in with entity id 18265 at (115.82827484059408, 66.16610926093821, -2196.304369116654)
+[20Jun2025 02:05:18.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 joined the game
+[20Jun2025 02:05:18.543] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player batmangordo1 has successfully logged in.
+[20Jun2025 02:06:00.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 has made the advancement [Gravedigger]
+[20Jun2025 02:07:12.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BatmanGordo1 was shot by Skeleton
+[20Jun2025 02:07:12.356] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(55, 73, -2308) minecraft:overworld
+[20Jun2025 02:08:50.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: BatmanGordo1
