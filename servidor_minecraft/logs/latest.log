@@ -311,3 +311,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 00:42:39.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> bro nunca dijsite no
 [20Jun2025 00:43:25.407] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 2.177 ms. 2110/2140 recipes are parallelized.
 [20Jun2025 00:43:28.966] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 113.9 μs. 128/128 recipes are parallelized.
+[20Jun2025 00:53:00.719] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ZombifiedPiglin['Zombified Piglin'/2731, l='ServerLevel[world]', x=34.52, y=80.00, z=-261.45]
