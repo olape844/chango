@@ -2976,5 +2976,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-06-20 22:45:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

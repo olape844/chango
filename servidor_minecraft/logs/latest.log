@@ -1405,3 +1405,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 22:33:41.131] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
 [20Jun2025 22:36:01.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set own game mode to Creative Mode]
 [20Jun2025 22:37:28.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set own game mode to Survival Mode]
+[20Jun2025 22:47:45.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Disconnected
+[20Jun2025 22:47:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 22:47:47.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> DORMITEEEEEE
+[20Jun2025 22:48:11.383] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:42205] logged in with entity id 136958 at (-309.2017791720285, 5.0, -2314.699999988079)
+[20Jun2025 22:48:11.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 22:48:12.290] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[20Jun2025 22:48:41.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[20Jun2025 22:48:41.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[20Jun2025 22:49:17.982] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:54687] logged in with entity id 137602 at (-309.2017791720285, 5.0, -2314.699999988079)
+[20Jun2025 22:49:17.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[20Jun2025 22:49:18.357] [Netty Epoll Server IO #2/INFO] [simplelogin/]: Player benjamon has successfully logged in.
