@@ -1157,3 +1157,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [20Jun2025 18:36:54.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 has made the advancement [We Need to Go Deeper]
 [20Jun2025 18:37:28.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [20Jun2025 18:39:53.812] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[20Jun2025 18:42:18.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pradolf56 was slain by Lava Eater
+[20Jun2025 18:42:18.203] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(17, 60, -388) minecraft:the_nether
+[20Jun2025 18:42:57.446] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[20Jun2025 18:43:20.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rotto123 was slain by Bullkin
+[20Jun2025 18:43:20.911] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(275, 63, -2095) minecraft:overworld
+[20Jun2025 18:43:32.614] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[20Jun2025 18:43:32.614] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack

@@ -473,6 +473,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-20 18:26:14 +0000",
       "cooked_mutton": "2025-06-19 23:13:27 +0000",
+      "cooked_beef": "2025-06-20 18:47:45 +0000",
       "apple": "2025-06-19 23:52:21 +0000",
       "bread": "2025-06-19 23:21:54 +0000",
       "melon_slice": "2025-06-20 00:13:57 +0000"
@@ -1085,9 +1086,39 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-06-20 18:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-20 18:36:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-06-20 18:47:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-20 18:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-20 18:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-20 18:40:47 +0000"
     },
     "done": true
   },
@@ -1103,6 +1134,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-06-20 18:40:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-20 18:37:48 +0000"
@@ -1112,6 +1149,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-20 18:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-20 18:40:34 +0000"
     },
     "done": true
   },
