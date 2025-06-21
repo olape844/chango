@@ -15874,3 +15874,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jun2025 00:54:32.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> por algo pregunto
 [21Jun2025 00:54:34.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> xdd
 [21Jun2025 00:54:40.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> q
+[21Jun2025 00:55:04.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> esque hay un mod para minimapa y otro pa abrirlo
+[21Jun2025 00:55:26.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> suputamadre cuantos controles
+[21Jun2025 00:55:44.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> asimimo
+[21Jun2025 00:56:06.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> no se puede matar gente verda
+[21Jun2025 00:56:22.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me pidieron hasta desactivar el pvp
+[21Jun2025 00:56:28.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> q geis
+[21Jun2025 00:57:40.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> wtf porque tengo tanto alcance minando
+[21Jun2025 00:57:56.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ni pouta idea
+[21Jun2025 00:58:02.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> quere venir a la aldea?
+[21Jun2025 00:58:10.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ogmyth has made the advancement [Gravedigger]
+[21Jun2025 00:58:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> pera
+[21Jun2025 00:58:17.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ya
+[21Jun2025 00:58:36.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ogmyth has made the advancement [Stone Age]
+[21Jun2025 00:58:50.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> donde e
+[21Jun2025 00:58:58.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ogmyth has made the advancement [Getting an Upgrade]
+[21Jun2025 00:59:23.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 00:59:23.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 00:59:41.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> ?
+[21Jun2025 00:59:55.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> a
+[21Jun2025 01:00:04.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> manda tpa porque es lejo
+[21Jun2025 01:00:08.563] [Server thread/DEBUG] [simplelogin/]: Checking command 'tpa Juandi3531'
+[21Jun2025 01:00:08.564] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw ogmyth ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You sent a teleport request!","color":"gold"}]'
+[21Jun2025 01:00:08.564] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Juandi3531  ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You received a teleport request from ","color":"gold"},{"text":"ogmyth","bold":true,"color":"gold"},{"text":"! To accept it, type /tpaccept.","color":"gold"}]'
+[21Jun2025 01:00:13.137] [Server thread/DEBUG] [simplelogin/]: Checking command 'tapccept'
+[21Jun2025 01:00:21.301] [Server thread/DEBUG] [simplelogin/]: Checking command 'tpaccept'
+[21Jun2025 01:00:21.301] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw ogmyth ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"Teleporting in 5 seconds...","color":"gold"}]'
+[21Jun2025 01:00:21.301] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Juandi3531 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You accepted the teleport request!","color":"gold"}]'
+[21Jun2025 01:00:26.293] [Server thread/DEBUG] [simplelogin/]: Checking command 'tp ogmyth Juandi3531'
+[21Jun2025 01:00:26.293] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw ogmyth ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"Teleported!","color":"gold"}]'
+[21Jun2025 01:00:33.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pa alla
+[21Jun2025 01:00:38.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> tenes
+[21Jun2025 01:00:39.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> comida
+[21Jun2025 01:00:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> eso noma jajsajajd
+[21Jun2025 01:00:52.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> tabien
+[21Jun2025 01:00:54.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> gracia
+[21Jun2025 01:01:01.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> tabin
+[21Jun2025 01:02:02.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> QESESO
+[21Jun2025 01:02:15.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> q cosda
+[21Jun2025 01:02:32.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> UWVUTHANA
+[21Jun2025 01:02:35.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> CASI ME PAPEAN
+[21Jun2025 01:02:39.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ahhhh
+[21Jun2025 01:02:44.475] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw ogmyth ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You died at 303.2 61.6 -2083.8!","color":"gold"}]'
+[21Jun2025 01:02:44.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ogmyth was slain by Umvuthana Raptor
+[21Jun2025 01:02:44.477] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(300, 59, -2082) minecraft:overworld
+[21Jun2025 01:02:47.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> gordo
+[21Jun2025 01:02:47.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> te acordas el gordo del sol?
+[21Jun2025 01:02:51.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ahora son as{i
+[21Jun2025 01:03:01.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> me podes tepear a mi muerte
+[21Jun2025 01:03:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> ono tenes comandos
+[21Jun2025 01:03:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> no tengo xdddd
+[21Jun2025 01:03:22.614] [Server thread/DEBUG] [simplelogin/]: Checking command 'tpa Juandi3531'
+[21Jun2025 01:03:22.614] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw ogmyth ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You sent a teleport request!","color":"gold"}]'
+[21Jun2025 01:03:22.614] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Juandi3531  ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You received a teleport request from ","color":"gold"},{"text":"ogmyth","bold":true,"color":"gold"},{"text":"! To accept it, type /tpaccept.","color":"gold"}]'
+[21Jun2025 01:03:34.052] [Server thread/DEBUG] [simplelogin/]: Checking command 'tpaccept'
+[21Jun2025 01:03:34.052] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw ogmyth ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"Teleporting in 5 seconds...","color":"gold"}]'
+[21Jun2025 01:03:34.052] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw Juandi3531 ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"You accepted the teleport request!","color":"gold"}]'
+[21Jun2025 01:03:39.061] [Server thread/DEBUG] [simplelogin/]: Checking command 'tp ogmyth Juandi3531'
+[21Jun2025 01:03:39.061] [Server thread/DEBUG] [simplelogin/]: Checking command 'tellraw ogmyth ["",{"text":"<<","bold":true,"color":"red"},{"text":"TPA","bold":true,"color":"gold"},{"text":">> ","bold":true,"color":"red"},{"text":"Teleported!","color":"gold"}]'
+[21Jun2025 01:04:23.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 01:04:23.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
