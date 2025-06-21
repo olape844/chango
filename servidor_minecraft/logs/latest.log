@@ -249,3 +249,11 @@
 [21Jun2025 01:27:25.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set the time to 1000]
 [21Jun2025 01:33:52.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
 [21Jun2025 01:33:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[21Jun2025 01:46:36.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:57063] logged in with entity id 211970 at (198.87170664193917, 63.0, -2147.7435459747894)
+[21Jun2025 01:46:36.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[21Jun2025 01:46:37.366] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[21Jun2025 01:47:06.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon lost connection: Timed out
+[21Jun2025 01:47:06.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon left the game
+[21Jun2025 01:49:35.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:54183] logged in with entity id 212303 at (198.87170664193917, 63.0, -2147.7435459747894)
+[21Jun2025 01:49:35.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
+[21Jun2025 01:49:35.649] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player benjamon has successfully logged in.
