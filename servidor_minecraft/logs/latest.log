@@ -425,3 +425,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jun2025 03:19:21.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Haazk[/127.30.35.58:56623] logged in with entity id 26318 at (443.32608595553427, -54.0, -2373.86745425385)
 [21Jun2025 03:19:21.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk joined the game
 [21Jun2025 03:19:21.697] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player haazk has successfully logged in.
+[21Jun2025 03:21:17.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk has made the advancement [Alex's Caves]
+[21Jun2025 03:23:37.969] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/26369, l='ServerLevel[world]', x=434.70, y=73.09, z=-2489.34] died, message: 'Nitwit was turned into KFC by Fire Dragon'
+[21Jun2025 03:24:36.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/26409, l='ServerLevel[world]', x=351.74, y=67.50, z=-2538.25] died, message: 'Nitwit burned to death'
+[21Jun2025 03:25:05.571] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26384, l='ServerLevel[world]', x=377.44, y=63.94, z=-2542.61] died, message: 'Villager was incinerated by Fire Dragon'
+[21Jun2025 03:25:24.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/26386, l='ServerLevel[world]', x=443.70, y=73.23, z=-2512.92] died, message: 'Nitwit burned to death'
+[21Jun2025 03:25:46.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was incinerated by Fire Dragon
+[21Jun2025 03:25:46.571] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(302, 65, -2270) minecraft:overworld
+[21Jun2025 03:26:08.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Fire Dragon
+[21Jun2025 03:26:08.324] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(308, 65, -2279) minecraft:overworld
+[21Jun2025 03:26:23.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[21Jun2025 03:26:23.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[21Jun2025 03:28:15.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:60603] logged in with entity id 31265 at (308.4165085394647, 65.0, -2277.258652254793)
+[21Jun2025 03:28:15.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[21Jun2025 03:28:15.683] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[21Jun2025 03:28:41.078] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jun2025 03:28:41.079] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[21Jun2025 03:28:41.079] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[21Jun2025 03:28:41.079] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[21Jun2025 03:28:41.079] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Jun2025 03:29:37.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was slain by Fire Dragon
+[21Jun2025 03:29:37.276] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(306, 65, -2277) minecraft:overworld
+[21Jun2025 03:29:56.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> listo
+[21Jun2025 03:30:00.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> casa en el spawn
+[21Jun2025 03:30:07.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Haazk> jsjsjsjs
