@@ -246,3 +246,6 @@
 [21Jun2025 01:24:42.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.6167195575676487
 [21Jun2025 01:24:42.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.4778407539932914
 [21Jun2025 01:24:42.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.34628617221562763
+[21Jun2025 01:27:25.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set the time to 1000]
+[21Jun2025 01:33:52.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[21Jun2025 01:33:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game

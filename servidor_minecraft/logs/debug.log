@@ -16127,3 +16127,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jun2025 01:24:42.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.6167195575676487
 [21Jun2025 01:24:42.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.4778407539932914
 [21Jun2025 01:24:42.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.34628617221562763
+[21Jun2025 01:27:22.209] [Server thread/DEBUG] [simplelogin/]: Checking command 'TIME SET DAY'
+[21Jun2025 01:27:25.526] [Server thread/DEBUG] [simplelogin/]: Checking command 'time set day'
+[21Jun2025 01:27:25.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set the time to 1000]
+[21Jun2025 01:29:23.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 01:29:23.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jun2025 01:33:52.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[21Jun2025 01:33:52.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[21Jun2025 01:34:23.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jun2025 01:34:23.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
