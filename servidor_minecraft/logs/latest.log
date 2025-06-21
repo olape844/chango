@@ -204,3 +204,32 @@
 [21Jun2025 01:03:01.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> me podes tepear a mi muerte
 [21Jun2025 01:03:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> ono tenes comandos
 [21Jun2025 01:03:15.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> no tengo xdddd
+[21Jun2025 01:05:48.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> y esta casa de qn es
+[21Jun2025 01:05:55.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> esta re fea
+[21Jun2025 01:06:08.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> cual
+[21Jun2025 01:06:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> la q tiene las lamparas estas
+[21Jun2025 01:06:13.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> del nether
+[21Jun2025 01:06:21.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> y escaleras de mesas de crafteo
+[21Jun2025 01:06:23.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ahh, es del prado y el tosi
+[21Jun2025 01:06:31.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> pq chucha tienen escaleras de mesas de crafteo xdd
+[21Jun2025 01:06:55.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ni idea, casi toda la construcci{on la hizo el tosi
+[21Jun2025 01:07:10.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> la rosita es la casa del xokas
+[21Jun2025 01:07:16.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> y la explotada del facu
+[21Jun2025 01:07:19.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> XD
+[21Jun2025 01:07:36.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ogmyth has made the advancement [Sweet Dreams]
+[21Jun2025 01:08:42.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ogmyth> ya vengo
+[21Jun2025 01:08:47.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> oka
+[21Jun2025 01:08:53.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ogmyth lost connection: Disconnected
+[21Jun2025 01:08:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ogmyth left the game
+[21Jun2025 01:09:03.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 was blown up by Creeper
+[21Jun2025 01:09:03.425] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(323, 65, -2293) minecraft:overworld
+[21Jun2025 01:09:13.576] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jun2025 01:09:13.576] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[21Jun2025 01:09:13.576] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Jun2025 01:09:13.576] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[21Jun2025 01:09:13.576] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Jun2025 01:14:11.177] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[21Jun2025 01:14:11.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[21Jun2025 01:14:26.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:41123] logged in with entity id 201819 at (161.02098621709038, 72.0, -2282.4863854301925)
+[21Jun2025 01:14:26.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[21Jun2025 01:14:27.148] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
