@@ -49,7 +49,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-06-21 04:05:49 +0000",
       "minecraft:wooded_badlands": "2025-06-20 21:03:08 +0000",
+      "minecraft:bamboo_jungle": "2025-06-21 03:40:15 +0000",
       "minecraft:badlands": "2025-06-20 21:16:46 +0000",
       "minecraft:beach": "2025-06-19 21:21:22 +0000",
       "minecraft:sparse_jungle": "2025-06-21 03:28:40 +0000",
@@ -58,6 +60,8 @@
       "minecraft:forest": "2025-06-20 20:39:56 +0000",
       "minecraft:desert": "2025-06-19 21:19:00 +0000",
       "minecraft:jungle": "2025-06-20 21:02:16 +0000",
+      "minecraft:ocean": "2025-06-21 04:01:10 +0000",
+      "minecraft:flower_forest": "2025-06-21 04:04:52 +0000",
       "minecraft:savanna": "2025-06-19 21:23:34 +0000",
       "minecraft:plains": "2025-06-21 03:22:26 +0000"
     },
@@ -552,9 +556,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-19 21:32:14 +0000",
+      "cooked_mutton": "2025-06-21 04:07:21 +0000",
       "beef": "2025-06-19 21:31:25 +0000",
+      "mutton": "2025-06-21 04:03:08 +0000",
       "bread": "2025-06-19 21:52:28 +0000",
-      "rotten_flesh": "2025-06-20 20:13:47 +0000"
+      "rotten_flesh": "2025-06-20 20:13:47 +0000",
+      "cooked_chicken": "2025-06-21 03:52:08 +0000"
     },
     "done": false
   },
@@ -2238,6 +2245,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-06-21 03:21:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-06-21 03:21:55 +0000"
@@ -2250,12 +2263,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-06-21 03:21:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-06-21 03:21:55 +0000"
@@ -2265,6 +2272,192 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-06-21 03:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-21 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-21 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-21 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-21 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-06-21 03:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-21 03:42:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-21 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_03": "2025-06-21 03:51:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-21 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-06-21 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-06-21 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/craft_coffin": {
+    "criteria": {
+      "coffin": "2025-06-21 03:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-21 03:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-06-21 03:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-06-21 03:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-21 03:53:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-06-21 03:56:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-06-21 04:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-21 03:58:38 +0000"
     },
     "done": true
   },
