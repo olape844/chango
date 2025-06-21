@@ -233,3 +233,16 @@
 [21Jun2025 01:14:26.224] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:41123] logged in with entity id 201819 at (161.02098621709038, 72.0, -2282.4863854301925)
 [21Jun2025 01:14:26.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
 [21Jun2025 01:14:27.148] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[21Jun2025 01:18:00.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juandi3531: Set the time to 1000]
+[21Jun2025 01:23:13.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.5873398171620465
+[21Jun2025 01:23:13.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.6135594461507026
+[21Jun2025 01:23:13.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.6572365414745036
+[21Jun2025 01:23:13.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.7276928278342893
+[21Jun2025 01:24:42.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.8919468377803241
+[21Jun2025 01:24:42.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.7459893904383534
+[21Jun2025 01:24:42.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.6002558735926868
+[21Jun2025 01:24:42.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.9059743075717961
+[21Jun2025 01:24:42.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.7602507094791235
+[21Jun2025 01:24:42.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.6167195575676487
+[21Jun2025 01:24:42.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.4778407539932914
+[21Jun2025 01:24:42.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juandi3531) moved wrongly! 0.34628617221562763
