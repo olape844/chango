@@ -257,3 +257,32 @@
 [21Jun2025 01:49:35.024] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: benjamon[/127.28.56.10:54183] logged in with entity id 212303 at (198.87170664193917, 63.0, -2147.7435459747894)
 [21Jun2025 01:49:35.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon joined the game
 [21Jun2025 01:49:35.649] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player benjamon has successfully logged in.
+[21Jun2025 01:58:06.726] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7721bdd0[id=863b9ae7-96d4-3627-a98c-bf51676b2453,name=Haazk,properties={},legacy=false] (/127.30.35.58:55425): You are banned from this server.
+Reason: Banned by an operator.
+[21Jun2025 01:58:06.727] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7721bdd0[id=863b9ae7-96d4-3627-a98c-bf51676b2453,name=Haazk,properties={},legacy=false] (/127.30.35.58:55425) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[21Jun2025 01:58:06.777] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jun2025 01:58:33.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Umvuthana Raptor
+[21Jun2025 01:58:33.672] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-51, 63, -2026) minecraft:overworld
+[21Jun2025 01:59:33.524] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@32e9c415[id=863b9ae7-96d4-3627-a98c-bf51676b2453,name=Haazk,properties={},legacy=false] (/127.30.35.58:60523): You are banned from this server.
+Reason: Banned by an operator.
+[21Jun2025 01:59:33.524] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32e9c415[id=863b9ae7-96d4-3627-a98c-bf51676b2453,name=Haazk,properties={},legacy=false] (/127.30.35.58:60523) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[21Jun2025 01:59:33.574] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jun2025 02:00:39.324] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@69b8f307[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:41347): Took too long to log in
+[21Jun2025 02:00:39.324] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69b8f307[id=<null>,name=Haazk,properties={},legacy=false] (/127.30.35.58:41347) lost connection: Took too long to log in
+[21Jun2025 02:00:39.373] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jun2025 02:00:58.576] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5cc254ab[id=863b9ae7-96d4-3627-a98c-bf51676b2453,name=Haazk,properties={},legacy=false] (/127.30.35.58:44089): You are banned from this server.
+Reason: Banned by an operator.
+[21Jun2025 02:00:58.577] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5cc254ab[id=863b9ae7-96d4-3627-a98c-bf51676b2453,name=Haazk,properties={},legacy=false] (/127.30.35.58:44089) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[21Jun2025 02:00:58.628] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21Jun2025 02:02:40.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Lightning Dragon
+[21Jun2025 02:02:40.272] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(6, 65, -2096) minecraft:overworld
+[21Jun2025 02:04:01.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was energized by Lightning Dragon
+[21Jun2025 02:04:01.722] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(13, 65, -2090) minecraft:overworld
+[21Jun2025 02:05:12.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Lightning Dragon
+[21Jun2025 02:05:12.722] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(13, 65, -2100) minecraft:overworld
+[21Jun2025 02:06:12.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: benjamon moved too quickly! 10.828687643422532,1.0,-8.273854021347233
+[21Jun2025 02:06:23.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: benjamon was slain by Lightning Dragon
+[21Jun2025 02:06:23.972] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(16, 65, -2101) minecraft:overworld
