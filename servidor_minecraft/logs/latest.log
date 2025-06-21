@@ -529,3 +529,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 [21Jun2025 04:10:43.935] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Haazk lost connection: Disconnected
 [21Jun2025 04:10:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Haazk left the game
 [21Jun2025 04:10:45.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> buan noche
+[21Jun2025 04:12:04.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> juandi vas a tener que meter un mod para mover aldeanis
+[21Jun2025 04:12:12.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> porque solo hay 1 aca
+[21Jun2025 04:12:14.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xd
+[21Jun2025 04:12:22.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> que raro
+[21Jun2025 04:12:30.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> yo había encerrado a dos
+[21Jun2025 04:12:35.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pa que no se mueran
+[21Jun2025 04:12:35.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> ahhh
+[21Jun2025 04:12:48.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> puede ser que aparezcan superpuestos
+[21Jun2025 04:13:05.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> non, eran en casas distintas
+[21Jun2025 04:13:12.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> chucha
+[21Jun2025 04:17:25.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Disturbing the Dead I]
+[21Jun2025 04:19:17.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> vai a dormi?
+[21Jun2025 04:19:24.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[21Jun2025 04:19:24.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[21Jun2025 04:20:00.023] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:34539] logged in with entity id 71514 at (-559.8582153147032, 70.0, -3708.6462942431385)
+[21Jun2025 04:20:00.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[21Jun2025 04:20:01.199] [Netty Epoll Server IO #3/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[21Jun2025 04:20:30.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[21Jun2025 04:20:30.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[21Jun2025 04:21:28.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:42047] logged in with entity id 72146 at (-559.8582153147032, 70.0, -3708.6462942431385)
+[21Jun2025 04:21:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[21Jun2025 04:21:30.154] [Netty Epoll Server IO #7/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[21Jun2025 04:21:59.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[21Jun2025 04:21:59.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game

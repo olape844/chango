@@ -2846,5 +2846,17 @@
     },
     "done": true
   },
+  "graveyard:graveyard/medium_graveyard": {
+    "criteria": {
+      "medium_graveyard": "2025-06-21 04:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-21 04:17:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
