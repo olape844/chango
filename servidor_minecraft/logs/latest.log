@@ -63,3 +63,73 @@
 [21Jun2025 00:23:53.443] [Netty Epoll Server IO #0/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
 [21Jun2025 00:24:22.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
 [21Jun2025 00:24:22.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[21Jun2025 00:25:09.428] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3579a92f[id=<null>,name=Juandi3531,properties={},legacy=false] (/127.39.127.4:38927) lost connection: Disconnected
+[21Jun2025 00:25:36.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:51307] logged in with entity id 180801 at (310.5, 65.0, -2293.5)
+[21Jun2025 00:25:36.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[21Jun2025 00:25:36.705] [Netty Epoll Server IO #4/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[21Jun2025 00:25:45.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=285, y=66, z=-2288} BlockPos{x=286, y=64, z=-2288}
+[21Jun2025 00:25:47.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=66, z=-2294} BlockPos{x=291, y=64, z=-2295}
+[21Jun2025 00:25:47.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=66, z=-2294} BlockPos{x=291, y=64, z=-2295}
+[21Jun2025 00:25:47.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=290, y=66, z=-2294} BlockPos{x=291, y=64, z=-2295}
+[21Jun2025 00:26:06.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Timed out
+[21Jun2025 00:26:06.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[21Jun2025 00:26:46.338] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:44259] logged in with entity id 181031 at (310.5, 65.0, -2293.5)
+[21Jun2025 00:26:46.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[21Jun2025 00:26:46.808] [Netty Epoll Server IO #6/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[21Jun2025 00:27:07.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> al fin me cargó
+[21Jun2025 00:27:09.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> queres reiniciar el server?
+[21Jun2025 00:27:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> ahh
+[21Jun2025 00:27:15.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> por qué me morí?
+[21Jun2025 00:27:24.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> dragob
+[21Jun2025 00:27:33.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> broh
+[21Jun2025 00:28:26.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ese va a ser el primer dragon que me culee
+[21Jun2025 00:28:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> me aparece que te inicinero
+[21Jun2025 00:29:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ssi, era verdesito el hdp
+[21Jun2025 00:29:23.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> igual estaba casi que etapa 4
+[21Jun2025 00:29:26.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> era enorme
+[21Jun2025 00:30:07.934] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[21Jun2025 00:30:07.934] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[21Jun2025 00:30:07.934] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[21Jun2025 00:30:07.934] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[21Jun2025 00:30:07.934] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[21Jun2025 00:30:21.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=753, y=65, z=-2244} BlockPos{x=752, y=62, z=-2247}
+[21Jun2025 00:30:21.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=753, y=65, z=-2244} BlockPos{x=752, y=62, z=-2247}
+[21Jun2025 00:30:35.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> zz
+[21Jun2025 00:30:36.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xd
+[21Jun2025 00:30:38.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juandi3531 lost connection: Disconnected
+[21Jun2025 00:30:38.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 left the game
+[21Jun2025 00:31:06.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juandi3531[/127.39.127.4:45925] logged in with entity id 183340 at (703.3000000119209, 63.0, -2265.3672600706627)
+[21Jun2025 00:31:06.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 joined the game
+[21Jun2025 00:31:07.213] [Netty Epoll Server IO #1/INFO] [simplelogin/]: Player juandi3531 has successfully logged in.
+[21Jun2025 00:31:23.237] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=311, y=67, z=-2318} BlockPos{x=310, y=65, z=-2318}
+[21Jun2025 00:32:02.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> que es un coloso cubierto
+[21Jun2025 00:32:12.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juandi3531 has made the advancement [Covered in Moss]
+[21Jun2025 00:32:37.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> te acordas del golem de los cultivos?
+[21Jun2025 00:32:42.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> sis
+[21Jun2025 00:32:50.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> este lugar tiene pinta de eso
+[21Jun2025 00:32:54.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pero no hay nada
+[21Jun2025 00:33:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> creo que ya se lo lootearon
+[21Jun2025 00:34:07.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ah no, se había salido el bicho
+[21Jun2025 00:34:12.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ese era el coloso
+[21Jun2025 00:34:20.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pero está al lado del dragon
+[21Jun2025 00:35:39.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> me baje 2 palas de diamante
+[21Jun2025 00:35:50.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> TENIA EL DRAGON EN EL CULOÇ
+[21Jun2025 00:35:54.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xdd
+[21Jun2025 00:36:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> dos palas de diamante que bestia wn
+[21Jun2025 00:36:42.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> me cagué encima
+[21Jun2025 00:36:56.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> tengo la mitad de una mochila de oro llena de tierra
+[21Jun2025 00:37:03.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> ellll diablo
+[21Jun2025 00:37:13.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> pero te quere aplanar medio overworld wn
+[21Jun2025 00:37:27.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> es que quiero hacer una casa muy grande
+[21Jun2025 00:37:42.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> se nota
+[21Jun2025 00:37:59.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> yo me hago esta y después si pinta ampliarla bueno, sino no jaja
+[21Jun2025 00:38:47.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> es que yo me quiero hacer una casa grande para tardarme haciendo otras weas en vez de ir al nether o algo asi
+[21Jun2025 00:39:00.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> claro
+[21Jun2025 00:39:47.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> yo no tengo ganas de speedrunear, la wea más chetada que tengo es el pico de diamaante y una espada de hierro ajjajaja
+[21Jun2025 00:40:03.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> xdd
+[21Jun2025 00:40:11.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> es una verga esta armadura
+[21Jun2025 00:40:54.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> has visto abeto /roble oscuro?
+[21Jun2025 00:41:02.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <benjamon> non
+[21Jun2025 00:41:13.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> caraho
+[21Jun2025 00:41:29.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> salebicho
+[21Jun2025 00:41:51.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juandi3531> piola
