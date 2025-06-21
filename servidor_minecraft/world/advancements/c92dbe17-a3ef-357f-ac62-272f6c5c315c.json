@@ -3008,18 +3008,6 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_umvuthana_raptor": {
-    "criteria": {
-      "umvuthana_raptor": "2025-06-21 02:12:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_leggings": {
-    "criteria": {
-      "has_item": "2025-06-21 02:18:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-06-21 02:08:04 +0000"
@@ -3032,21 +3020,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-06-21 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-06-21 02:12:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_lightning_dragon": "2025-06-21 02:18:42 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_chestplate": {
+  "iceandfire:recipes/combat/armor_black_leggings": {
     "criteria": {
       "has_item": "2025-06-21 02:18:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
+  "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
-      "has_black_wool": "2025-06-21 02:08:04 +0000"
+      "has_item": "2025-06-21 02:18:53 +0000"
     },
     "done": true
   },
