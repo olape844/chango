@@ -3014,6 +3014,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-06-21 02:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-06-21 02:08:04 +0000"
@@ -3026,9 +3032,39 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-06-21 02:18:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-21 02:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-06-21 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-06-21 02:18:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-06-21 02:18:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-06-21 02:18:53 +0000"
     },
     "done": true
   },
